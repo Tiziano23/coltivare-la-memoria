@@ -1,0 +1,9 @@
+body {
+    overflow: hidden;
+}
+
+.virtual-tour {
+    width: 100%;
+    height: calc(100vh - 56px);
+    border: none;
+}
