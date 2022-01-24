@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+img {
+    height: 30rem;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2rem;
+}
+
+.primo {
+    float: left;
+    margin-left: 30rem;
+    margin-top: 4rem;
+}
+
+.secondo {
+    float: right;
+    margin-right: 30rem;
+    margin-top: 4rem;
+}
+
+.foto-giusto {
+    float: left;
+    height: 25rem;
+    margin-left: 6rem;
+    padding: 0.8rem;
+    border-radius: 3rem;
+}
+
+.descrizione {
+    padding: 1rem;
+    margin-right: 2rem;
+}
+
+p {
+    margin-left: 8rem;
+}
