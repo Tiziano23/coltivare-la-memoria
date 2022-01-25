@@ -17,7 +17,7 @@ async function loadBiogarphy(id, data) {
         <td>{{location}}</td>
         <td>{{birthday}}</td>
         <td>{{recognition_date}}</td>
-        <td><a href="./biografie/archivio?id=${id}">Leggi di più <i class="bi bi-box-arrow-up-right"></i></a></td>
+        <td><a href="./archivio?id=${id}">Leggi di più <i class="bi bi-box-arrow-up-right"></i></a></td>
     </tr>`;
     
     const mergedData = { ...data.person, ...data.story, ...data.metadata };
