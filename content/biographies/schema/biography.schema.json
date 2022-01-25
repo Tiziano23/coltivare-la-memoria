@@ -34,15 +34,14 @@
             },
             "required": ["content", "location"]
         },
-        "meta": {
+        "metadata": {
             "type": "object",
             "properties": {
-                "date": { "type": "string" },
                 "authors": { "type": "array" },
                 "sources": { "type": "array" }
             }
         }
     },
 
-    "required": ["person", "story", "meta"]
+    "required": ["person", "story", "metadata"]
 }
