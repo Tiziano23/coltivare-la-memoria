@@ -1,0 +1,27 @@
+{
+    "person": {
+        "name": "Elia Angelo",
+        "surname": "Dalla Costa",
+        "sex": "M",
+        "birthplace": "Villaverla",
+        "birthday": "1872",
+        "death_date": "1962-06-04",
+        "recognition_date": "2012",
+        "occupation": "Cardinale"
+    },
+
+    "story": {
+        "content": "Il cardinale Elia Angelo Dalla Costa nasce nel 1872 a Villaverla e diventa arcivescovo di Firenze nel 1931 Per il suo operato durante la Seconda guerra mondiale, è stato insignito del titolo di \"Giusto fra le nazioni\" dal museo dello Yad Vashem di Gerusalemme. Il cardinale Dalla Costa ebbe infatti un ruolo centrale nell'organizzazione di una vasta rete di soccorso che, dopo l'occupazione tedesca dell'Italia, contribuì a salvare centinaia di ebrei, locali e profughi da altri Paesi.  Di particolare rilevanza fu la sua azione a favore degli ebrei fiorentini o profughi a Firenze attraverso la creazione di un comitato clandestino la cui responsabilità egli affidò al sacerdote don Leto Casini. Inoltre collaborava con i monasteri di Assisi favorendo la produzione di passaporti falsi per gli ebrei che si trovavano in quel periodo nascosti nei conventi della città umbra. Tra coloro che collaboravano a queste pericolose operazioni clandestine vi era anche il ciclista Gino Bartali, suo amico personale Per questo, il suo nome è stato impresso nella Parete dell'Onore nel Giardino dei Giusti di Yad Vashem. Il cardinale Dalla Costa non solo ha soccorso gli ebrei, ma ha anche espresso con forza l'avversione a quel regime totalitario razzista all'origine di quella terribile persecuzione. Non si compromise con il fascismo, anzi durante la storica visita di Adolf Hitler a Firenze del 1938, fece lasciare le finestre del palazzo arcivescovile chiuse e non partecipò alle celebrazioni ufficiali. Durante la seconda guerra mondiale si adoperò attivamente per salvare la sua diocesi dalle devastazioni belliche e per alleviare le sofferenze della popolazione. Senza aver timore di andare anche contro alla dittatura in onore alla difesa dei diritti sacri dell'uomo, protesse i fuggiaschi e i deboli in generale. È Morto a Firenze il 22 dicembre 1961 all'età di 89 anni e per il suo impegno nel periodo bellico Firenze proclamò Dalla Costa cittadino onorario. ",
+        "category": "Shoah",
+        "location": "Firenze",
+        "attached": {
+            "pictures": ["../../content/pictures/biographies/8_0.jpg"],
+            "documents": []
+        }
+    },
+
+    "metadata": {
+        "authors": ["Gennai", "D’Erasmo", "Morelli", "La Gioia", "Di Francia"],
+        "sources": ["Wikipedia", "Gariwo", "LaStampa.it"]
+    }
+}
