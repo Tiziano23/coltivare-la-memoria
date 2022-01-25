@@ -15,7 +15,7 @@
         "category": "Shoah",
         "location": "San Prugnano",
         "attached": {
-            "pictures": ["/content/pictures/biographies/6_0.jpg", "/content/pictures/biographies/6_1.jpg"],
+            "pictures": ["../../content/pictures/biographies/6_0.jpg", "../../content/pictures/biographies/6_1.jpg"],
             "documents": []
         }
     },

@@ -15,7 +15,7 @@
         "category": "Shoah",
         "location": "Volterra",
         "attached": {
-            "pictures": ["/content/pictures/biographies/4_0.jpg"],
+            "pictures": ["../../content/pictures/biographies/4_0.jpg"],
             "documents": []
         }
     },

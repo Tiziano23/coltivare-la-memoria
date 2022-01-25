@@ -15,7 +15,7 @@
         "category": "Shoah",
         "location": "Lucca",
         "attached": {
-            "pictures": ["/content/pictures/biographies/2_0.jpg", "/content/pictures/biographies/2_1.jpg"],
+            "pictures": ["../../content/pictures/biographies/2_0.jpg", "../../content/pictures/biographies/2_1.jpg"],
             "documents": []
         }
     },
