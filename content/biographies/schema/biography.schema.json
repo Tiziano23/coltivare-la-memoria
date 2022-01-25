@@ -11,10 +11,10 @@
                 "surname": { "type": "string" },
                 "sex": { "type": "string" },
                 "birthday": { "type": "string" },
-                "deathdate": { "type": "string" },
                 "birthplace": { "type": "string" },
-                "occupation": { "type": "string" },
-                "recognition_date": { "type": "string" }
+                "death_date": { "type": "string" },
+                "recognition_date": { "type": "string" },
+                "occupation": { "type": "string" }
             },
             "required": ["name", "surname", "sex", "birthday", "deathdate", "birthplace", "occupation"]
         },
@@ -22,24 +22,25 @@
             "type": "object",
             "properties": {
                 "content": { "type": "string" },
+                "category": { "type": "string" },
                 "location": { "type": "string" },
-                "optional": {
+                "attached": {
                     "type": "object",
                     "properties": {
-                        "documents": {
-                            "type": "array"
-                        }
+                        "pictures": { "type": "array" },
+                        "documents": { "type": "array" }
                     }
                 }
             },
-            "required": ["content", "location"]
+            "required": ["content", "category", "location"]
         },
         "metadata": {
             "type": "object",
             "properties": {
                 "authors": { "type": "array" },
                 "sources": { "type": "array" }
-            }
+            },
+            "required": ["authors", "sources"]
         }
     },
 

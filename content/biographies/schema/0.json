@@ -1,0 +1,27 @@
+{
+    "person": {
+        "name": "",
+        "surname": "",
+        "sex": "",
+        "birthplace": "",
+        "birthday": "",
+        "death_date": "",
+        "recognition_date": "",
+        "occupation": ""
+    },
+
+    "story": {
+        "content": "",
+        "category": "",
+        "location": "",
+        "attached": {
+            "pictures": [],
+            "documents": []
+        }
+    },
+
+    "metadata": {
+        "authors": [],
+        "sources": []
+    }
+}

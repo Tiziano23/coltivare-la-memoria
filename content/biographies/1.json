@@ -1,0 +1,27 @@
+{
+    "person": {
+        "name": "Mario",
+        "surname": "Canessa",
+        "sex": "M",
+        "birthplace": "Volterra",
+        "birthday": "1917-11-20",
+        "death_date": "2014-07-07",
+        "recognition_date": "2008-02-21",
+        "occupation": "Poliziotto, agente di pubblica sicurezza al confine"
+    },
+
+    "story": {
+        "content": "Nasce a Volterra il 20 novembre 1917. Lavora come agente di pubblica sicurezza nell’ufficio di frontiera con la Svizzera, con il compito di fermare le persone che cercavano di espatriare illegalmente. Nel settembre 1943 aderisce al gruppo militare di orientamento monarchico, e si impegna nella resistenza, facendo il doppio gioco. Dal settembre all’ottobre del 1943 ospita nella sua casa Flora Gallia e la figlia Noemi, presentandole come parenti, e riesce poi a farle espatriare in Svizzera. In dicembre salva Ciro De Benedetti, bambino di otto anni rimasto senza genitori; Mario Canessa conduce il bambino oltre il confine e lo consegna alla Gendarmeria  di Campocologno, attestandone l’identità ebraica. Anche la nonna di Ciro, Corinna Finzi De Benedetti, e la zia, Bianca De Benedetti, vengono aiutate a rifugiarsi in Svizzera. Mario Canessa accoglie e salva almeno 134 persone, anche con l’aiuto delle proprietarie dell’alloggio, le sorelle Piccioli, fino alla primavera del 1944. Nel 2008 viene riconosciuto come Giusto tra le nazioni da Yad Vashem e nel 2013 riceve la medaglia d’oro al valore civile dal presidente della Repubblica. Muore nel 2014 a Livorno.",
+        "category": "Shoah",
+        "location": "Piemonte, confine con la Svizzera",
+        "attached": {
+            "pictures": ["/content/pictures/biographies/1_0.jpg", "/content/pictures/biographies/1_1.jpg"],
+            "documents": []
+        }
+    },
+
+    "metadata": {
+        "authors": ["Bianca Meini"],
+        "sources": ["Wikipedia", "Gariwo", "Il Tirreno"]
+    }
+}
