@@ -4,43 +4,30 @@
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="path" content="" />
 
         <title>Coltivare la Memoria - Home</title>
 
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css" />
-        <link rel="stylesheet" href="global.css" />
+        <link rel="stylesheet" href="content/styles/global.css" />
         <link rel="stylesheet" href="style.css" />
+
+        <script src="content/scripts/htmlTemplateLoader.js"></script>
+        <script src="content/includes/header.js"></script>
+        <script src="content/includes/footer.js"></script>
     </head>
     <body>
-        <nav class="navbar navbar-light navbar-expand bg-light">
-            <div class="container-fluid">
-                <a class="navbar-brand" href="./">Coltivare la Memoria</a>
-                <ul class="navbar-nav ms-auto me-2">
-                    <li class="nav-item">
-                        <a href="./" class="nav-link active">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="./biografie/" class="nav-link">Biografie</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="./giardino-virtuale/" class="nav-link">Giardino virtuale</a>
-                    </li>
-                </ul>
-                <a class="btn btn-primary fw-bolder" href="./biografie/">Approfondisci <i class="bi bi-arrow-right"></i></a>
-            </div>
-        </nav>
+        <header-comp active-page="home"></header-comp>
 
-        <div class="container-lg mb-5">
-            <div class="slideshow my-5">
+        <main class="container-lg mt-4" style="margin-bottom: 5rem">
+            <div class="slideshow mb-5">
                 <div class="picture active">
-                    <img src="./content/pictures/slideshow-1.jpg" alt="Image 1" class="img-fluid" />
+                    <img src="content/pictures/slideshow-1.jpg" alt="Image 1" class="img-fluid" />
                 </div>
                 <div class="picture">
-                    <img src="./content/pictures/slideshow-2.jpg" alt="Image 2" class="img-fluid" />
+                    <img src="content/pictures/slideshow-2.jpg" alt="Image 2" class="img-fluid" />
                 </div>
                 <div class="picture">
-                    <img src="./content/pictures/slideshow-3.jpg" alt="Image 3" class="img-fluid" />
+                    <img src="content/pictures/slideshow-3.jpg" alt="Image 3" class="img-fluid" />
                 </div>
                 <div class="controls controls-left">
                     <i class="bi-chevron-left"></i>
@@ -51,49 +38,25 @@
                     <div class="background"></div>
                 </div>
             </div>
-            <div class="article">
-                <h1>Perché Coltivare la Memoria?</h1>
-                <p>Il nostro progetto ha lo scopo di ricordare tutte quelle persone che si sono distinte nel corso della storia per i loro comportamenti solidali.</p>
-                <p>Tra queste personalità abbiamo individuato i 'Giusti fra le Nazioni', uomini e donne che durante il periodo della Seconda Guerra Mondiale hanno rischiato la propria vita salvando le persone ebree, allora perseguitate.</p>
-                <p>Nei decenni a venire anche altre persone hanno seguito il loro esempio scegliendo di assumersi delle responsabilità importanti per aiutare coloro che avevano bisogno, senza alcuna distinzione.</p>
+            <div class="article mb-5">
+                <h1 class="display-1">Perché Coltivare la Memoria?</h1>
                 <p>
-                    Anche oggi ci sono persone che salvano migranti, che aiutano i perseguitati per motivi politici o religiosi, persone che tutelano la terra e l’ambiente, promuovendo una cultura della legalità, contrastando i fenomeni
+                    Il nostro progetto ha lo scopo di ricordare tutte quelle persone che si sono distinte nel corso della storia per i loro comportamenti solidali.<br />
+                    Tra queste personalità abbiamo individuato i 'Giusti fra le Nazioni', uomini e donne che durante il periodo della Seconda Guerra Mondiale hanno rischiato la propria vita salvando le persone ebree, allora perseguitate.
+                </p>
+                <p>
+                    Nei decenni a venire anche altre persone hanno seguito il loro esempio scegliendo di assumersi delle responsabilità importanti per aiutare coloro che avevano bisogno, senza alcuna distinzione.<br />
+                    Anche oggi ci sono persone che salvano migranti, che aiutano i perseguitati per motivi politici o religiosi, persone che tutelano la terra e l'ambiente, promuovendo una cultura della legalità, contrastando i fenomeni
                     della criminalità organizzata e infine persone che si impegnano nella difesa dei Diritti Umani.
                 </p>
-                <hr />
-                <h2>Chi sono i 'Giusti fra le Nazioni'?</h2>
                 <p>
-                    Lo Yad Vashem, Memoriale della Shoah a Gerusalemme, ha riconosciuto la figura di 'Giusti tra le Nazioni', persone che si sono distinte per aver aiutato gli ebrei, mettendo a rischio la propria vita, senza pensare alle
-                    conseguenze, ma spinti soltanto dalla volontà di salvare vite umane.
+                    In questo sito potrete trovare due sezioni principali. La prima sezione contiene le biografie dei giusti con i relativi dati. La seconda sezione contiene un giardino virtuale in cui sono stati inseriti i vari percorsi,
+                    che si riferiscono alle varie categorie ("giusti fra le nazioni oppure giusti presenti in un'altra epoca").
                 </p>
-                <!-- <h1>Coltivare la Memoria</h1>
-                    <figure>
-                        <blockquote class="blockquote">
-                            <p>"C'era della gente che era in pericolo di morire e bisognava fare qualche cosa. Avendo la possibilità di farlo, l'ho fatto"</p>
-                        </blockquote>
-                        <figcaption class="blockquote-footer">Giorgio Perlasca</figcaption>
-                    </figure>
-                    <p class="lead">Chi è un "giusto"?</p>
-                    <p>Giusto è colui che rinuncia alla propria incolumità, alla propria libertà e alla propria quiete personale, per salvare la vita ad altre persone.</p>
-                    <p>
-                        I primi giusti furono coloro che durante la 2° guerra mondiale aiutarono gli ebrei a nascondersi dai nazisti. Anche oggi ci sono persone che salvano migranti, che aiutano i perseguitati per motivi politici o
-                        religiosi, persone che tutelano la terra e l’ambiente, promuovendo una cultura della legalità, contrastando i fenomeni della criminalità organizzata e infine persone che si impegnano nella difesa dei diritti umani.
-                    </p>
-                    <p>
-                        Il progetto ha come obiettivo il ricordo di uomini e donne, che nonostante non fossero toccate da leggi persecutorie nei propri confronti, spinte dal forte senso di solidarietà nei confronti di perseguitati, li hanno
-                        aiutati.<br />
-                        Persone disposte a salvare la vita degli altri rischiando la propria. Nella nostra idea la definizione di <i>giusto</i> è universale, quindi riconducibile anche al tempo presente
-                    </p>
-                    <p>
-                        All’interno del sito si possono visionare diverse biografie ed esempi di <i>giusti</i>.È interessante leggere la vita di ognuno e provare a capire le motivazioni e le emozioni che hanno spinto queste persone a
-                        compiere tali atti di pura solidarietà.
-                    </p> -->
             </div>
-        </div>
+        </main>
 
-        <footer class="bg-light text-center py-3">
-            <span>Sito realizzato dagli studenti della 5B-Inf - <a href="https://www.marconipontedera.edu.it/" target="_blank">ITIS "G. Marconi" Pontedera</a></span>
-        </footer>
+        <footer-comp></footer-comp>
 
         <script src="index.js"></script>
     </body>
