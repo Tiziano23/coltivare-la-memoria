@@ -1,0 +1,27 @@
+{
+    "person": {
+        "name": "Arturo",
+        "surname": "Paoli",
+        "sex": "M",
+        "birthplace": "Lucca",
+        "birthday": "1912-11-30",
+        "death_date": "2015-07-13",
+        "recognition_date": "1999",
+        "occupation": "Parroco"
+    },
+
+    "story": {
+        "content": "Don Arturo Paoli è stato un prete lucchese dichiarato Giusto tra le Nazioni da Yad Vashem per aver salvato la vita di Zvi Yacov Gerstel e di sua moglie nel 1944. Nasce a Lucca nel 1912, studia lettere all’Università di Pisa e si laurea alla Cattolica di Milano nel 1936. Diventa sacerdote a Lucca nel 1940 dopo essere entrato in seminario nel 1937. Durante gli anni della seconda guerra mondiale l’arcivescovo Antonio Torrini lo incarica, insieme ad altri tre giovani preti, di dare vita a un luogo di accoglienza e sostegno ai bisognosi della guerra, assegnandogli la Casa degli Oblati in via del Giardino Botanico. Grazie a questo incarico diede ospitalità ed assistenza ai perseguitati politici e tutti coloro che riuscirono a sfuggire dai rastrellamenti nazifascisti dell’alta Toscana,salvando circa 800 cittadini ebrei. Fra queste persone sappiamo che un gruppo di 18 persone furono portate da Livorno, un altro gruppo di circa 30 persone, composto in più parte di donne anziane o deboli, furono ricoverate presso le suore di Santa Zita a Marina di Massa. Molti parroci misero a disposizione le proprie parrocchie come primo rifugio per gli ebrei prima di essere indirizzati in luoghi più sicuri. Dopo il secondo Dopoguerra venne incaricato di prendere il ruolo di cappellano nelle navi di emigranti italiani in Argentina. Laggiù si stabilì in un piccolo villaggio di boscaioli e si dedicò al sostegno dei poveri entrando anche in conflitto con le autorità locali. Nel 1969 viene nominato come superiore regionale della comunità latinoamericana dei Piccoli Fratelli quindi si trasferì a  Buenos Aires. Mentre era in Venezuela nel 1973 viene accusato di contrabbando di armi con il Cile, quindi decise di non ritornare in Argentina e rimanere in Venezuela. Dopo aver passato qualche anno là, si trasferisce in Brasile nel 1985 a Sao Leopoldo dove aiuta le persone più emarginate, più in particolare i ragazzi in periferia. Nel 2005 torna in Toscana a Lucca diventando un punto di riferimento per i giovani. Nel 1999 ricevette il titolo di Giusto da Yad Vashem, infatti il suo nome è inciso nel Muro d'Onore dei Giusti a Yad Vashem. Muore a Lucca nel 2015. ",
+        "category": "Shoah",
+        "location": "Lucca",
+        "attached": {
+            "pictures": ["../../content/pictures/biographies/11_0.jpg"],
+            "documents": []
+        }
+    },
+
+    "metadata": {
+        "authors": ["Vittoria Giraldo"],
+        "sources": ["Gariwo", "Wikipedia", "Yad Vashem"]
+    }
+}

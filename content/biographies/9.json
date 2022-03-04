@@ -15,7 +15,7 @@
         "category": "Shoah",
         "location": "Toscana / Firenze",
         "attached": {
-            "pictures": [],
+            "pictures": ["../../content/pictures/biographies/9_0.jpg", "../../content/pictures/biographies/9_1.jpg"],
             "documents": []
         }
     },

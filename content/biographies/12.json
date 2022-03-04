@@ -1,0 +1,27 @@
+{
+    "person": {
+        "name": "Giorgio",
+        "surname": "Nissim",
+        "sex": "M",
+        "birthplace": "Pisa",
+        "birthday": "1908-03-23",
+        "death_date": "1979-04-1",
+        "recognition_date": "/",
+        "occupation": "Capo industria tessile"
+    },
+
+    "story": {
+        "content": "Giorgio Nissim nasce a Pisa il 24 marzo 1908. Dal 1926, dopo la morte del padre Achille, è impegnato a tempo pieno nella conduzione dell’industria tessile di famiglia ma nel 1939 Giorgio Nissim diventa delegato in Toscana della Delegazione per l’assistenza agli emigranti ebrei. La DELASEM è una associazione fondata il 1º dicembre 1939 dall'Unione delle comunità ebraiche italiane come associazione legale di assistenza e distribuzione degli aiuti internazionali alle migliaia di profughi ebrei che cercavano rifugio in Italia per l'espatrio in paesi neutrali. Dopo l’8 settembre 1943, quando viene firmato l’armistizio di Cassibile, Nissim continua la sua opera di assistenza agli ebrei, creando una rete clandestina di soccorso che si estende sull’intera Toscana. Dopo la cattura dei vertici della Delasem toscana, Nissim, divenuto unico punto di riferimento dell’organizzazione lavorò instancabilmente  e a causa della possibilità di cattura cambiava spesso identità. Costantemente avvolto in un tabarro nero si muoveva con circospezione e sveltezza per mettere al sicuro le famiglie ebree. Salvò più di 800 vite, organizzando una rete di assistenza insieme ad altri eroi, poi molti diventati “Giusti”, cittadini non di fede ebraica e preti che agirono per evitare la deportazione nei lager a molti ebrei. In meno di due anni di attività segreta, Nissim salvò centinaia di vite ricorrendo solo ed esclusivamente all’arguzia, e mai a quella violenza da lui combattuta per tutta la vita. In quegli anni non sparò mai un colpo, mai fece ricorso ad azioni di forza.",
+        "category": "Shoah",
+        "location": "Province di Pisa, Lucca, Livorno",
+        "attached": {
+            "pictures": ["../../content/pictures/biographies/12_0.jpg", "../../content/pictures/biographies/12_1.jpg"],
+            "documents": []
+        }
+    },
+
+    "metadata": {
+        "authors": ["Rosa Donati"],
+        "sources": ["Wikipedia", "Bibliografia di Ugo Maria Tassinari", "Il Tirreno", "Giorgio Nissim. Una vita al servizio del bene", "Memorie di un Ebreo toscano"]
+    }
+}
