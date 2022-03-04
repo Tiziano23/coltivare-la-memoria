@@ -1,5 +1,6 @@
 "use strict";
 (async function () {
+    
     const res = await fetch("../content/biographies/fetch.php");
     const data = await res.json();
 

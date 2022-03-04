@@ -4,39 +4,20 @@
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="path" content="giusti-fra-le-nazioni">
 
         <title>Coltivare la Memoria - Giuseppe dani</title>
 
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css" />
-        <link rel="stylesheet" href="../global.css" />
+        <link rel="stylesheet" href="../content/styles/global.css" />
         <link rel="stylesheet" href="style.css" />
+
+        <script src="../content/scripts/htmlTemplateLoader.js"></script>
+        <script src="../content/includes/header.js"></script>
+        <script src="../content/includes/footer.js"></script>
     </head>
     <body>
-        <nav class="navbar navbar-light navbar-expand">
-            <div class="container-fluid">
-                <div class="navbar-brand py-0 d-flex align-items-center">
-                    <img class="logo" src="../content/pictures/logo.png" alt="Logo" />
-                    <a class="title" href="../">Coltivare la memoria</a>
-                </div>
-                <ul class="navbar-nav ms-auto me-2">
-                    <li class="nav-item">
-                        <a href="../" class="nav-link">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="../biografie" class="nav-link">Biografie</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="./" class="nav-link active">Giusti fra le Nazioni</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="../giardino-virtuale/" class="nav-link">Giardino virtuale</a>
-                    </li>
-                </ul>
-                <a class="cta btn btn-primary fw-bolder" href="../biografie/">Sfoglia le biografie <i class="bi bi-arrow-right"></i></a>
-            </div>
-        </nav>
-
+        <header-comp active-page="gisuti"></header-comp>
+        
         <div class="container-lg mt-4" style="margin-bottom: 5rem">
             <div class="article mb-5">
                 <h2 class="display-2">Chi sono i 'Giusti fra le Nazioni'?</h2>
@@ -47,21 +28,17 @@
             </div>
             <div class="item-list vstack gap-2 mb-5">
                 <h3>Approfondimenti</h3>
-                <a class="item hstack gap-3 p-3 shadow" href="../biografie/giuseppe-dani/">
-                    <img class="image " src="../content/pictures/dani.png" alt="Giuseppe Dani" />
+                <a class="item hstack gap-3 p-3 shadow" href="./giuseppe-dani/">
+                    <img class="image img-thumbnail" src="../content/pictures/dani.png" alt="Giuseppe Dani" />
                     <div class="vstack gap-2 justify-content-center">
                         <h2 class="name">Giuseppe Dani</h2>
-                        <p class="content">
-                            Un approfondimento su Gisueppe Dani
-                        </p>
+                        <p class="content">Il fattore di Colleoli che salvò una famiglia ebrea</p>
                     </div>
                 </a>
 
             </div>
         </div>
 
-        <footer class="bg-light text-center py-3 fixed-bottom">
-            <span>Sito realizzato dagli studenti della 5B-Inf - <a href="https://www.marconipontedera.edu.it/" target="_blank">ITIS "G. Marconi" Pontedera</a></span>
-        </footer>
+        <footer-comp></footer-comp>
     </body>
 </html>
