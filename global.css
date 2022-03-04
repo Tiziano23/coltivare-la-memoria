@@ -1,3 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+
 * {
     box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #e8f6e9;
+}
+.navbar .navbar-brand .title {
+    margin-left: 1rem;
+    color: inherit;
+    font-size: 1.5em;
+    font-family: 'Oleo Script', cursive;
+    text-decoration: inherit;
+}
+.navbar .navbar-brand .logo {
+    height: 4rem;
+    object-fit: contain;
+}
+.navbar .cta {
+    border-width: 0;
+    background-color: hsl(122, 50%, 25%);
 }

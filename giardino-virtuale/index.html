@@ -13,33 +13,40 @@
         <link rel="stylesheet" href="style.css" />
     </head>
     <body>
-        <nav class="navbar navbar-light navbar-expand bg-light">
-            <div class="container-fluid">
-                <a class="navbar-brand" href="../">Coltivare la Memoria</a>
-                <ul class="navbar-nav ms-auto me-2">
-                    <li class="nav-item">
-                        <a href="../" class="nav-link">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="../biografie/" class="nav-link">Biografie</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="./" class="nav-link active">Giardino virtuale</a>
-                    </li>
-                </ul>
-                <a class="btn btn-primary fw-bolder" href="../biografie/">Approfondisci <i class="bi bi-arrow-right"></i></a>
-            </div>
-        </nav>
-
-        <iframe
-            class="virtual-tour"
-            allow="vr; gyroscope; accelerometer; fullscreen; autoplay; xr"
-            allowvr="yes"
-            allowfullscreen="true"
-            scrolling="no"
-            frameborder="0"
-            src="https://webobook.com/public/61eae7f33681322d041f9ff2,en?ap=false&si=false&sm=false&sp=false&sfr=false&sl=false&sop=false"
-        ></iframe>
-        <!-- https://webobook.com/tour/I2ejsvuZpTzR-E8PkzNgUvbiYwn32Ddq/oAoNnWVIiUOglinNXrgHywAF_JZvsSuH -->
+        <div class="vstack gap-0" id="content">
+        <nav class="navbar navbar-light navbar-expand">
+                <div class="container-fluid">
+                    <div class="navbar-brand py-0 d-flex align-items-center">
+                    <img class="logo" src="../content/pictures/logo.png" alt="Logo">
+                    <a class="title" href="../">Coltivare la memoria</a>
+                </div>
+                    <ul class="navbar-nav ms-auto me-2">
+                        <li class="nav-item">
+                            <a href="../" class="nav-link">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="../biografie/" class="nav-link">Biografie</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="../giusti-fra-le-nazioni/" class="nav-link">Giusti fra le Nazioni</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="./" class="nav-link active">Giardino virtuale</a>
+                        </li>
+                    </ul>
+                    <a class="cta btn btn-primary fw-bolder" href="../biografie/">Sfoglia l'archivio <i class="bi bi-arrow-right"></i></a>
+                </div>
+            </nav>
+    
+            <iframe
+                class="virtual-tour"
+                allow="vr; gyroscope; accelerometer; fullscreen; autoplay; xr"
+                allowvr="yes"
+                allowfullscreen="true"
+                scrolling="no"
+                frameborder="0"
+                src="https://webobook.com/public/61eae7f33681322d041f9ff2,en?ap=false&si=false&sm=false&sp=false&sfr=false&sl=false&sop=false"
+            ></iframe>
+        </div>
     </body>
 </html>
