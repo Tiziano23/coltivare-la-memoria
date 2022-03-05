@@ -36,10 +36,11 @@ const Catalog = {
         this.death_date = data.person.death_date.length > 4 ? new Date(data.person.death_date).toLocaleDateString() : data.person.death_date;
         this.recognition_date = data.person.recognition_date.length > 4 ? new Date(data.person.recognition_date).toLocaleDateString() : data.person.recognition_date;
 
-        this.content = data.story.content;
+        this.content = data.story.content.reduce((acc, el) => { return acc += "<"+el.tag+">"+el.content+"</"+el.tag+">" }, "");
         this.category = data.story.category;
         this.location = data.story.location;
         this.pictures = data.story.attached.pictures;
+        console.log(this.content)
 
         this.sources = data.metadata.sources.reduce((a, i) => a + ", " + i);
         this.authors = data.metadata.authors.reduce((a, i) => a + ", " + i);
