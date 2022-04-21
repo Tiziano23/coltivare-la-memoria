@@ -11,7 +11,7 @@
     }
 })();
 
-async function loadBiogarphy(id, data) {
+async function loadBiogarphy(id, biography) {
     let template = `<tr>
         <td>{{name}}</td>
         <td>{{surname}}</td>
@@ -21,7 +21,7 @@ async function loadBiogarphy(id, data) {
         <td><a href="./archivio/?id=${id}">Leggi di più <i class="bi bi-box-arrow-up-right"></i></a></td>
     </tr>`;
     
-    const mergedData = { ...data.person, ...data.story, ...data.metadata };
+    const mergedData = { ...biography.person, ...biography.data, ...biography.metadata };
     
     if (mergedData.birthday !== '/' && mergedData.birthday.length > 4) mergedData.birthday = new Date(mergedData.birthday).toLocaleDateString();
     if (mergedData.recognition_date !== '/' && mergedData.recognition_date.length > 4) mergedData.recognition_date = new Date(mergedData.recognition_date).toLocaleDateString();
