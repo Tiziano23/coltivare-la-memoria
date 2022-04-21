@@ -24,26 +24,26 @@ const Catalog = {
     },
     async created() {
         const res = await fetch(`../../content/biographies/${requestId}.json`);
-        const data = await res.json();
+        const biography = await res.json();
 
-        this.name = data.person.name;
-        this.surname = data.person.surname;
-        this.sex = data.person.sex;
-        this.birthplace = data.person.birthplace;
-        this.occupation = data.person.occupation;
+        this.name = biography.person.name;
+        this.surname = biography.person.surname;
+        this.sex = biography.person.sex;
+        this.birthplace = biography.person.birthplace;
+        this.occupation = biography.person.occupation;
 
-        this.birthday = data.person.birthday.length > 4 ? new Date(data.person.birthday).toLocaleDateString() : data.person.birthday;
-        this.death_date = data.person.death_date.length > 4 ? new Date(data.person.death_date).toLocaleDateString() : data.person.death_date;
-        this.recognition_date = data.person.recognition_date.length > 4 ? new Date(data.person.recognition_date).toLocaleDateString() : data.person.recognition_date;
+        this.birthday = biography.person.birthday.length > 4 ? new Date(biography.person.birthday).toLocaleDateString() : biography.person.birthday;
+        this.death_date = biography.person.death_date.length > 4 ? new Date(biography.person.death_date).toLocaleDateString() : biography.person.death_date;
+        this.recognition_date = biography.person.recognition_date.length > 4 ? new Date(biography.person.recognition_date).toLocaleDateString() : biography.person.recognition_date;
 
-        this.content = data.story.content.reduce((acc, el) => { return acc += "<"+el.tag+">"+el.content+"</"+el.tag+">" }, "");
-        this.category = data.story.category;
-        this.location = data.story.location;
-        this.pictures = data.story.attached.pictures;
+        this.content = biography.data.content.reduce((acc, el) => { return acc += "<"+el.tag+">"+el.content+"</"+el.tag+">" }, "");
+        this.category = biography.data.category;
+        this.location = biography.data.location;
+        this.pictures = biography.data.attached.pictures;
         console.log(this.content)
 
-        this.sources = data.metadata.sources.reduce((a, i) => a + ", " + i);
-        this.authors = data.metadata.authors.reduce((a, i) => a + ", " + i);
+        this.sources = biography.metadata.sources.reduce((a, i) => a + ", " + i);
+        this.authors = biography.metadata.authors.reduce((a, i) => a + ", " + i);
     },
 };
 

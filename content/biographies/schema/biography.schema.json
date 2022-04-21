@@ -18,10 +18,10 @@
             },
             "required": ["name", "surname", "sex", "birthday", "deathdate", "birthplace", "occupation"]
         },
-        "story": {
+        "content": {
             "type": "object",
             "properties": {
-                "content": { "type": "string" },
+                "text": { "type": "string" },
                 "category": { "type": "string" },
                 "location": { "type": "string" },
                 "attached": {
