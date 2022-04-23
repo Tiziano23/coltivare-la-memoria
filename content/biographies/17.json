@@ -1,0 +1,25 @@
+{
+    "person": {
+        "name": "Eric",
+        "surname": "Kempson",
+        "sex": "M",
+        "birthplace": "Inghilterra",
+        "birthday": "1955",
+        "death_date": "-",
+        "recognition_date": "2018",
+        "occupation": "Pittore, scrittore, musicista e influencer "
+    },
+    "data": {
+        "content": "Eric Kempson nasce in Inghilterra nel 1955 ma risiede a Lesbo dal 1999. È un pittore e scultore che ha incrociato la sua vita con la tragedia dei migranti del Mediterraneo. Oggi si dedica ad aiutare chi fugge dall’Africa e dal Medio Oriente. Eric, che ora ha 67 anni, è scultore e pittore e realizza opere con il legno d’ulivo che vende ai turisti e agli abitanti dell’isola, ma a partire dal 2015 ha messo in secondo piano la sua attività per dedicarsi con la moglie Philippa a salvare in modo volontario le persone che arrivano ogni giorno sulla spiaggia a 200 metri dalla sua casa, a Eftalou, nel nord dell’isola. Insieme a Philippa, Eric ha creato una rete in grado di salvare migliaia di vite, coordinando volontari e risorse provenienti da tutto il mondo. E’ stato il primo sull’isola a postare su youtube e Facebook video dell’emergenza umanitaria. I suoi video su youtube, ora più di 500, sono una testimonianza importante di quello che succede sull’isola e i suoi appelli (in cui Eric chiede a gran voce aiuto) hanno portato migliaia di persone ad andare a Lesbo a fare i volontari. Nel giro di 6-8 mesi sono arrivate ad aiutare i migranti 2500 persone da tutto il mondo, che si sono affiancate ai pescatori e agli altri abitanti dell’isola. “Chi ha aiutato di più sono stati i volontari che hanno agito indipendentemente e le piccole Ong”, spiega Eric. Che non ha mai voluto aderire a Ong o crearne una propria. Lui e Philippa hanno promosso The Hope Project, tramite l’associazione Uk Action for Refugees, un progetto per fornire supporto alle persone che fuggono da conflitti o persecuzioni e che arrivano a Lesbo e per convogliare le donazioni che arrivano da ogni parte del mondo. ",
+        "category": "Migrazione",
+        "location": "Lesbo",
+        "attached": {
+            "pictures": ["/../../content/pictures/biographies/17_0.jpg","/../../content/pictures/biographies/17_1.jpg"],
+            "documents": []
+        }
+    },
+    "metadata": {
+        "authors": ["Caporilli Emiliano","Trentin Nicolò"],
+        "sources": ["www.vita.it","gariwo.net"]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "person": {
+        "name": "Yusra",
+        "surname": "Mardini",
+        "sex": "F",
+        "birthplace": "Damasco, Siria",
+        "birthday": "5/03/1998",
+        "death_date": "-",
+        "recognition_date": "2020",
+        "occupation": "Nuotatrice"
+    },
+    "data": {
+        "content": "",
+        "category": "Migrazione",
+        "location": "Mar mediterraneo",
+        "attached": {
+            "pictures": ["/../../content/pictures/biographies/21_0.jpg"],
+            "documents": []
+        }
+    },
+    "metadata": {
+        "authors": ["Cristian Fioravanti"],
+        "sources": ["wikipedia.org","gariwo.net","luce.lanazione.it/yusra-mardini-la-nuotatrice-olimpica-rifugiata-che-salvo-i-suoi-compagni-di-viaggio/"]
+    }
+}
