@@ -1,11 +1,11 @@
 "use strict";
 (async function () {
-    const res = await fetch("../content/biographies/fetch.php");
+    const res = await fetch("content/biographies/fetch.php");
     const data = await res.json();
 
     let biographies = [];
     for (const filename of data.files) {
-        const res = await fetch("../content/biographies/" + filename);
+        const res = await fetch("content/biographies/" + filename);
         biographies.push({ filename: filename, ...await res.json() });
     }
     biographies = biographies.sort((a, b) => {
@@ -29,7 +29,7 @@ async function loadBiogarphy(id, biography) {
         <td>{{location}}</td>
         <td>{{birthday}}</td>
         <td>{{recognition_date}}</td>
-        <td><a href="./archivio/?id=${id}">Leggi di più <i class="bi bi-box-arrow-up-right"></i></a></td>
+        <td><a href="biografie/archivio?id=${id}">Leggi di più <i class="bi bi-box-arrow-up-right"></i></a></td>
     </tr>`;
 
     const mergedData = { ...biography.person, ...biography.data, ...biography.metadata };

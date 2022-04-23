@@ -28,7 +28,7 @@
         "category": "Salvataggio ebrei e perseguitati (Shoah) ",
         "location": "Colleoli, Palaia (PI)",
         "attached": {
-            "pictures": ["../../content/pictures/biographies/9_0.jpg", "../../content/pictures/biographies/9_1.jpg"],
+            "pictures": ["content/pictures/biographies/9_0.jpg", "content/pictures/biographies/9_1.jpg"],
             "documents": []
         }
     },

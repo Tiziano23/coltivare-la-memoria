@@ -23,7 +23,7 @@ const Catalog = {
         };
     },
     async created() {
-        const res = await fetch(`../../content/biographies/${requestId}.json`);
+        const res = await fetch(`content/biographies/${requestId}.json`);
         const biography = await res.json();
 
         this.name = biography.person.name;

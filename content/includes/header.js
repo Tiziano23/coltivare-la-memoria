@@ -7,9 +7,9 @@
             super();
             this.attachShadow({ mode: "open" });
 
-            let link = document.createElement("link");
-            link.setAttribute("rel", "stylesheet");
-            link.setAttribute("href", new URL("content/styles/global.css", projectRoot));
+            // let link = document.createElement("link");
+            // link.setAttribute("rel", "stylesheet");
+            // link.setAttribute("href", new URL("content/styles/global.css", projectRoot));
 
             (async () => {
                 let html = await htmlTemplateLoader.load(new URL("content/components/header.html", projectRoot));

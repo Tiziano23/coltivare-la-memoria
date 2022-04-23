@@ -1,0 +1,8 @@
+<meta name="path" content="" />
+
+<script src="content/scripts/htmlTemplateLoader.js"></script>
+<script src="content/includes/header.js"></script>
+<script src="content/includes/footer.js"></script>
+
+<header-comp active-page="home"></header-comp>
+<footer-comp></footer-comp>

@@ -20,7 +20,7 @@
         "category": "Shoah",
         "location": "Province di Pisa, Lucca, Livorno",
         "attached": {
-            "pictures": ["../../content/pictures/biographies/12_0.jpg", "../../content/pictures/biographies/12_1.jpg"],
+            "pictures": ["content/pictures/biographies/12_0.jpg", "content/pictures/biographies/12_1.jpg"],
             "documents": []
         }
     },

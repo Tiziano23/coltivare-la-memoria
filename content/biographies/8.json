@@ -20,7 +20,7 @@
         "category": "Shoah",
         "location": "Firenze",
         "attached": {
-            "pictures": ["../../content/pictures/biographies/8_0.jpg"],
+            "pictures": ["content/pictures/biographies/8_0.jpg"],
             "documents": []
         }
     },

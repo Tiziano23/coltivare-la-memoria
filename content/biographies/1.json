@@ -20,7 +20,7 @@
         "category": "Shoah",
         "location": "Piemonte, confine con la Svizzera",
         "attached": {
-            "pictures": ["../../content/pictures/biographies/1_0.jpg", "../../content/pictures/biographies/1_1.jpg"],
+            "pictures": ["content/pictures/biographies/1_0.jpg", "content/pictures/biographies/1_1.jpg"],
             "documents": []
         }
     },

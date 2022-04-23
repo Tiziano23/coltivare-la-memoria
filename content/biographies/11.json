@@ -20,7 +20,7 @@
         "category": "Shoah",
         "location": "Lucca",
         "attached": {
-            "pictures": ["../../content/pictures/biographies/11_0.jpg"],
+            "pictures": ["content/pictures/biographies/11_0.jpg"],
             "documents": []
         }
     },

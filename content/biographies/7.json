@@ -20,7 +20,7 @@
         "category": "Shoah",
         "location": "Toscana / Firenze / Assisi",
         "attached": {
-            "pictures": ["../../content/pictures/biographies/7_0.jpg", "../../content/pictures/biographies/7_1.jpg", "../../content/pictures/biographies/7_2.jpg"],
+            "pictures": ["content/pictures/biographies/7_0.jpg", "content/pictures/biographies/7_1.jpg", "content/pictures/biographies/7_2.jpg"],
             "documents": []
         }
     },

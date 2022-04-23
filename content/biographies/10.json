@@ -20,7 +20,7 @@
         "category": "Shoah",
         "location": "Lombardia",
         "attached": {
-            "pictures": ["./../content/pictures/biographies/10_0.jpg", "../../content/pictures/biographies/10_1.jpg"],
+            "pictures": ["content/pictures/biographies/10_0.jpg", "content/pictures/biographies/10_1.jpg"],
             "documents": []
         }
     },
