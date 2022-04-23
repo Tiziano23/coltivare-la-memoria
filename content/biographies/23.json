@@ -1,0 +1,25 @@
+{
+    "person": {
+        "name": "Vito",
+        "surname": "Fiorino",
+        "sex": "M",
+        "birthplace": "Bari",
+        "birthday": "13/8/1949",
+        "death_date": "-",
+        "recognition_date": "3/10/2019",
+        "occupation": "Falegname/Gelataio/Pescatrore"
+    },
+    "data": {
+        "content": "Vito Fiorino, nato a Bari ma cresciuto a Milano, è un falegname e pescatore per passione. Il 3 ottobre 2013 è stato soccorritore durante una delle terribili tragedie vicino le coste di Lampedusa, dove si è trasferito ormai da molto tempo, trascorrendoci la maggior parte dell’anno.  Fiorino era in attesa dell’alba per uscire a pesca con un suo amico e si è trovato circondato da naufraghi che urlavano disperatamente chiedendo aiuto - “Quelle urla che salivano dall’acqua mi sembravano gabbiani, invece erano uomini”. I profughi erano in acqua da 4 ore, e da conoscitore del mare Fiorino sapeva che la situazione era drammatica; senza pensarci due volte, cominciò a issare a bordo con l’aiuto dell’amico quante più persone possibili, fino a rischiare il ribaltamento dell’imbarcazione. Dopo aver dato l’allarme alla Capitaneria di porto, riportò le 47 persone salvate sulla terra ferma (46 uomini e una donna), strappandole a morte certa.  Ha ancora contatti con i migranti che ha soccorso, che oggi lo chiamano papà; ogni anno, durante l’anniversario della tragedia, i ragazzi eritrei da lui salvati (che vivono nel Nord Europa) tornano per salutarlo e commemorare insieme a lui. Questo episodio ha colpito profondamente Fiorino, che non ha mai smesso di lanciare appelli per un maggiore impegno delle istituzioni nella questione dei migranti. L'amore, la relazione umana tra i ragazzi del naufragio e Vito è continuata negli anni. Chi gli deve la vita lo ha chiamato sin da subito father, papà, e questo continua a far commuovere Vito che di recente è andato a trovare i suoi figli acquisiti a Stoccolma, dove lavorano. Oggi molti di loro hanno dei figli. A Lampedusa si è battuto per vedere realizzata una delle sue idee, un memoriale delle vittime del 3 ottobre, con i nomi e le foto di tutti i morti. Oggi quel luogo che richiama la tragedia è nell'isola il luogo del ricordo. Vito Fiorino è una persona comune, non aveva ancora 11 mesi quando con la mamma e il fratello raggiungeva da Bari suo papà che stava avviando una piccola falegnameria a Sesto San Giovanni. Quella falegnameria ha continuato ad essere attiva fino a qualche anno fa fino a quando Vito non ha deciso di fare soltanto il gelataio. La sua gelateria si trova sia a Sesto San Giovanni che a Lampedusa dove Vito vive per sei mesi l'anno in attesa di poterci restare per sempre. Nel frattempo, incontra studenti in tutta Italia che inevitabilmente tornano a Lampedusa per vivere l'esperienza dei luoghi.",
+        "category": "Migrazione",
+        "location": "Lampedusa",
+        "attached": {
+            "pictures": ["/../../content/pictures/biographies/23_0.jpg"],
+            "documents": []
+        }
+    },
+    "metadata": {
+        "authors": ["Coli Federico"],
+        "sources": ["gariwo.net","La Repubblica","amalfinotizie.it"]
+    }
+}

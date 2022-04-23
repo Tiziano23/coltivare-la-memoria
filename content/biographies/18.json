@@ -1,0 +1,27 @@
+{
+    "person": {
+        "name": "Melinda",
+        "surname": "McRostie",
+        "sex": "F",
+        "birthplace": "Melbourne",
+        "birthday": "1965",
+        "death_date": "-",
+        "recognition_date": "2018",
+        "occupation": "Proprietaria di un ristorante"
+    },
+
+    "data": {
+        "content": "Melinda McRostie, nata a Melbourne nel 1965 e trasferita a Lesbo all’età di 7 anni, dove ha aperto un ristorante molto apprezzato insieme il marito Theo nel porto di Molyvo, è stata una delle testimoni dell’arrivo in massa di profughi a Lesbo (che ha rappresentato un vero e proprio esodo nel 2015). Il suo contributo, in termini di aiuto e umanità, è stato molto coraggioso. Quell’anno Melinda si è trovata a stravolgere la propria vita, dedicando quasi interamente il suo tempo alle necessità dei migranti. Le lavagne del Capitain’s Table sono state usate più volte come barelle di emergenza per recuperare persone dal mare. É stata inoltre lei a dare un nome a quell’esperienza di volontariato, prima spontaneo e poi necessariamente organizzato, definendola Starfish Foundation - una fondazione che ancora oggi è un collettivo virtuoso di iniziative umanitarie per chiunque sia in difficoltà. Melinda, insieme ad Eric Kempson - come racconta Daniele Biella nel suo libro \"L’Isola dei Giusti\" - è il principale punto di riferimento operativo dell’attività di aiuto sull’isola. Segnalata da Gariwo per il Monte Stella - cerimonia 2018",
+        "category": "Migrazione",
+        "location": "Lesbo",
+        "attached": {
+            "pictures": ["/../../content/pictures/biographies/18_0.jpg"],
+            "documents": []
+        }
+    },
+
+    "metadata": {
+        "authors": ["Ester Natale"],
+        "sources": ["basqueculinaryworldprize.com","gariwo.net"]
+    }
+}

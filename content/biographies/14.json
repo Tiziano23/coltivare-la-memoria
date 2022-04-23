@@ -1,0 +1,25 @@
+{
+    "person": {
+        "name": "Costantino",
+        "surname": "Baratta",
+        "sex": "M",
+        "birthplace": "Trani",
+        "birthday": "1957",
+        "death_date": "-",
+        "recognition_date": "-",
+        "occupation": "Muratore e pescatore diportista "
+    },
+    "data": {
+        "content": "Nato a Trani (Barletta-Andria-Trani) nel 1957 ma residente a Lampedusa, lavora attivamente come muratore presso la città, dove pratica anche l’arte della pesca, sua passione. Si trasferisce a Lampedusa dal 1987, a 26 anni, come residente fisso in seguito alla costruzione dalla casa assieme alla moglie, dove poi si stabilirà definitivamente.Come molti altri isolani, si trova a dover convivere con la tragedia dei profughi, che sbarcano lungo le coste in condizioni inumane o, nella peggiore delle ipotesi, non vi arrivano vivi; non ha mancato di dimostrare più volte la propria accoglienza e umanità verso i disperati del nostro mare. Durante la strage del 3 ottobre 2013 (nella quale persero la vita 368 persone) Costantino, che per caso era in mare, uscito con la sua barca la mattina presto per pescare, si è trovato di fronte a un numero incredibile di persone in acqua. Senza un attimo di esitazione, si prodiga insieme ai suoi compagni per caricare a bordo il maggior numero possibile di naufraghi, salvandoli così da morte certa. Ne ripesca 12, tutti ragazzi eritrei coi corpi nudi e coperti di nafta, li conduce sulla terra ferma, li accoglie a casa propria e li aiuta anche nei giorni successivi.“Alcuni reagivano”, afferma, “altri tossivano l’acqua mista a carburante che avevano ingerito, altri sembravano morti ma noi li abbiamo issati a bordo ugualmente sperando che si potessero salvare”.Baratta è rimasto in contatto con tutti loro, i quali, in fuga da un Paese dominato da un regime autoritario, quando possono, tornano ancora a trovarlo per ringraziarlo di averli strappati a un destino terribile.Sia prima che dopo questa data indelebile Costantino si è impegnato nell’aiuto dei migranti, diventando una delle figure più rappresentative di soccorso in questa emergenza umanitaria. ",
+        "category": "Migrazione",
+        "location": "Lampedusa",
+        "attached": {
+            "pictures": ["/../../content/pictures/biographies/14_0.jpg","/../../content/pictures/biographies/14_1.jpg"],
+            "documents": []
+        }
+    },
+    "metadata": {
+        "authors": ["Davide Ristori"],
+        "sources": ["gariwo.net","cinquantamila.it"]
+    }
+}

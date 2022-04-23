@@ -1,0 +1,25 @@
+{
+    "person": {
+        "name": "Stratos",
+        "surname": "Valiamos",
+        "sex": "M",
+        "birthplace": "Lesbo",
+        "birthday": "31/12/1976 ",
+        "death_date": "-",
+        "recognition_date": "2018 candidatura premio Nobel per la pace, 2018 segnalazione per il monte stella ",
+        "occupation": "Pescatore"
+    },
+    "data": {
+        "content": "Lesbo è un'isola greca situata vicino alle coste turche e ormai da anni è diventata la meta del primo sbarco di numerosi migranti. L'organizzazione dell’accoglienza dei migranti a Lesbo, però, non viene curata dagli amministratori, costringendo molte famiglie a vivere in condizioni disumane confinate in baracche senza luce né acqua.  Questi \"centri di accoglienza\" sono inoltre luoghi perfetti per la veicolazione di malattie, in particolare con l'arrivo del covid 19 i malati e i morti sono aumentati drasticamente.  I materiali che compongono le baracche sono anche altamente infiammabili e questo porta minimi incendi a causare ingenti danni costringendo le povere famiglie a spostarsi ancora, ovviamente date le condizioni economiche queste migrazioni avvengono su mezzi non adatti a trasportare numerose persone per tratti di mare molto lunghi, con il rischio di morte.  Per fortuna uomini e donne coraggiosi hanno fatto e fanno tutt'ora del loro meglio per aiutare, quanto possibile, queste persone in difficoltà, come Stratos Valiamos, la cui storia è riportata di seguito. Stratos Valiamos, originario dell’entroterra montuoso di Lesbo, a vent’anni ha scelto il mestiere di pescatore e si è trasferito a Skala Sikamineas, dove il suo mare lo ha portato ad essere uno dei principali testimoni attivi della tragedia umana di Lesbo, l’isola della Grecia dove tra il 2015 ed il 2016 si è verificato un vero e proprio esodo di profughi provenienti dalle coste turche. Con la sua presenza in mare aperto è riuscito a salvare, issandoli con le proprie mani sul peschereccio e lanciando l’allarme alla Guardia Costiera, un numero inimmaginabile di persone, che a lui devono la vita, anche se il suo intervento non risulta da nessun registro ufficiale. La loro angoscia e disperazione, raccontata da Stratos, lo hanno colpito profondamente, specie nelle situazioni in cui non ha potuto fare nulla; ma la rabbia nel vedere il destino crudele di quegli innocenti non lo ha allontanato dal mare, anzi lo ha spinto a salvare, ogni giorno, quante più persone potesse. “Nessuno lascia la propria casa se lì ha una vita degna di essere vissuta: questa verità”, dice Stratos, “è spesso quello che le persone non riescono a capire, fino a che non lo vedono con i propri occhi”. Insieme ad Emilia Kamvisi, il pescatore è stato candidato al premio Nobel per la pace nel 2016, in rappresentanza di tutti gli abitanti di Lesbo impegnati nel soccorso e nell’accoglienza dei profughi. ",
+        "category": "Migrazione",
+        "location": "Lesbo",
+        "attached": {
+            "pictures": ["/../../content/pictures/biographies/19_0.jpg"],
+            "documents": []
+        }
+    },
+    "metadata": {
+        "authors": ["Alessandro Lazzari"],
+        "sources": ["gariwo.net","internazionale.it/reportage/annalisa-camilli/2020/09/11/lesbo-moria-incendio"]
+    }
+}
