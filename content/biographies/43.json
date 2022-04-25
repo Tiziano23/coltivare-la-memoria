@@ -1,0 +1,25 @@
+{
+    "person": {
+        "name": "Luca",
+        "surname": "mercalli",
+        "sex": "M",
+        "birthplace": "Torino, Piemonte, Italia ",
+        "birthday": "1966-02-24",
+        "death_date": "/",
+        "recognition_date": "/",
+        "occupation": "Meteorologo, climatologo, divulgatore scientifico e accademico italiano "
+    },
+    "data": {
+        "content": "Ha cominciato ad interessarsi di atmosfera da giovane. Ha conseguito a diciott'anni a pieni voti l'attestato di Cultura aeronautica in Meteorologia, rilasciato dal Servizio meteorologico dell'Aeronautica Militare; successivamente ha svolto il servizio di leva come previsore valanghe nel Meteomont della Brigata alpina \"Taurinense\", partecipando all'esercitazione NATO ArrowHead Express nella Norvegia settentrionale. È impegnato nel divulgare uno stile di vita più attento alla riduzione dell'impatto ecologico, servendosi delle esperienze fatte in prima persona, nella sua abitazione in Val di Susa. Dopo essersi inizialmente iscritto a Scienze agrarie all'Università degli Studi di Torino, con indirizzo \"Uso e difesa dei suoli\" e agrometeorologia, ha proseguito gli studi all'Università di Grenoble con formazione in climatologia e glaciologia conseguendo un master in Geografia e scienze della montagna. La storia del clima delle Alpi è il suo principale argomento di ricerca, ma si occupa anche di temi ambientali ed energetici come membro di Aspo Italia, l'associazione per lo studio del picco del petrolio. Dopo aver lavorato per l'Ufficio Agrometeorologico della Regione Piemonte e poi per l'Assessorato opere pubbliche a difesa assetto idrogeologico, ha assunto la presidenza della Società meteorologica italiana. Nel 1993 ha fondato la rivista Nimbus, della quale conserva la direzione. È autore di 5 articoli scientifici su riviste internazionali,85 su altre riviste specializzate e numerosi articoli di divulgazione comparsi su La Stampa, su la Repubblica con cui collabora dal 1991, e su periodici (Alp, Rivista della Montagna, Donna Moderna, Gardenia). Dal 2010 collabora anche con Il Fatto Quotidiano. Dal luglio 2021 è coordinatore del comitato scientifico del neonato partito politico Europa Verde.",
+        "category": "Ambiente",
+        "location": "/",
+        "attached": {
+            "pictures": ["content/pictures/biographies/43_0.jpg"],
+            "documents": []
+        }
+    },
+    "metadata": {
+        "authors": ["Andrea Baldinotti"],
+        "sources": ["wikipedia"]
+    }
+}

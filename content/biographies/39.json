@@ -1,0 +1,27 @@
+{
+    "person": {
+        "name": "Eva",
+        "surname": "Crane",
+        "sex": "F",
+        "birthplace": "londra,Regno Unito",
+        "birthday": "1912-06-12",
+        "death_date": "2007-09-06",
+        "recognition_date": "/",
+        "occupation": "Fisica, biologa, scrittrice e intellettuale inglese "
+    },
+    "data": {
+        "content": "Eva Crane nasce nel 1912 a Londra. È stata una biologa, scrittrice, fisica e intellettuale inglese. Lei eccelle in tutte le materie scientifiche tanto che nel 1938 ottiene un dottorato in fisica nucleare. Per una serie di circostanze casuali indirizza le sue capacità sull’apicoltura e la melittologia . Nel 1942 sposa James Crane e tra i regali di nozze c’è un alveare. Anche all’interno del libro “Ragazze per l’ambiente” (De Marchi, Fulci) troviamo questo particolare perché le ha cambiato la vita. Siamo nel pieno della seconda guerra mondiale, le scorte alimentari scarseggiano e il miele può essere un valido sostituto dello zucchero, difficile da reperire. Da lì in poi dedicherà la sua vita allo studio delle api e degli alveari. Nel libro si sottolinea inoltre quanto tempo passasse protetta da indumenti a prova di pungiglione davanti all’alveare, riuscendo così a capire quanto fossero fondamentali le api per la nostra esistenza. Infatti senza l’impollinazione poche piante riuscirebbero a riprodursi. Le api garantiscono circa il 35% della produzione globale di cibo. Moltissime medicine vengono realizzate grazie alle piante, che senza le api però non potrebbero nascere. Quest’ultime tendono a vivere in aree pulite e quindi sono anche un campanello d’allarme in caso di inquinamento. Le sue conoscenze la porteranno a studiarle a tutto tondo: dal punto di vista biologico, agricolo, ecologico ma anche storico dato che l’apicoltura è una pratica millenaria. Nel 1949 fonda il BRA (Bee Research Association) di cui sarà direttrice per 35 anni. Dopo appena 5 mesi gli iscritti all’associazione erano più di 400.  A quell’ epoca lei aveva già pubblicato un dizionario in quattro lingue riguardante questo tema. Si concentra anche sulle tecniche dal passato fino ad oggi e attraversa oltre 60 paesi per scoprire le diverse culture sull’argomento. Fra le sue opere ci sono anche saggi divulgativi come “Dottor miele” tradotto in 23 lingue e venduto in 50 paesi. Scopre che gli antichi babilonesi usavano il miele per preservare i cadaveri, che l’apicoltura praticata in alcune zone del Pakistan è identica a quella diffusa nell’antica Grecia e che durante la guerra del Vietnam le api sono state utilizzate come armi dai Viet Cong. Studia anche le raffigurazioni di api e miele nelle opere di arte rupestre, analizzando oltre 150 siti preistorici. Negli ultimi anni c’ è stato un calo di api dovuto al cambiamento climatico, l’uso di pesticidi e la progressiva urbanizzazione. Nell’ UE gli alveari sono diminuiti del 50% e in Italia del 25%. A causa dei pesticidi viene contaminata la flora e le api, durante l’impollinazione si contaminano e muoiono. Anche il caldo rende difficoltoso per le piante produrre nettare e polline per le api.    Eva Crane muore a Slough, nel Regno Unito nel 2007. ",
+        "category": "Ambiente",
+        "location": "Regno Unito",
+        "attached": {
+            "pictures": [
+                "content/pictures/biographies/39_0.jpg"
+            ],
+            "documents": []
+        }
+    },
+    "metadata": {
+        "authors": ["Carrai Dennis"],
+        "sources": ["wikipedia.org/wiki/Eva_Crane","gariwo.net"]
+    }
+}

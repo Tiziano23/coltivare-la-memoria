@@ -2,7 +2,7 @@
     "person": {
         "name": "Chico",
         "surname": "Mendes",
-        "sex": "Maschio",
+        "sex": "M",
         "birthplace": "Xapuri, Acre, Brasile ",
         "birthday": "1944-12-15",
         "death_date": "1988-12-22",
@@ -15,7 +15,7 @@
         "category": "Ambiente",
         "location": "Foresta Amazzonica, Brasile ",
         "attached": {
-            "pictures": [],
+            "pictures": ["content/pictures/biographies/34_0.jpg"],
             "documents": []
         }
     },
