@@ -3,11 +3,11 @@
         "name": "Chico",
         "surname": "Mendes",
         "sex": "M",
-        "birthplace": "Xapuri, Acre, Brasile ",
+        "birthplace": "Xapuri, Acre, Brasile",
         "birthday": "1944-12-15",
         "death_date": "1988-12-22",
         "recognition_date": "/",
-        "occupation": "sindacalista, politico, ambientalista "
+        "occupation": "sindacalista, politico, ambientalista"
     },
 
     "data": {
@@ -18,7 +18,7 @@
             }
         ],
         "category": "Ambiente",
-        "location": "Foresta Amazzonica, Brasile ",
+        "location": "Foresta Amazzonica, Brasile",
         "attached": {
             "pictures": ["content/pictures/biographies/34_0.jpg"],
             "documents": []

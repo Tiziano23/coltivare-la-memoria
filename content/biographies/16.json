@@ -7,7 +7,7 @@
         "birthday": "1922",
         "death_date": "/",
         "recognition_date": "2016",
-        "occupation": "Raccoglitrice di olive "
+        "occupation": "Raccoglitrice di olive"
     },
     "data": {
         "content": [
@@ -17,7 +17,7 @@
             }
         ],
         "category": "Migrazione",
-        "location": "Isola di Lesbo ",
+        "location": "Isola di Lesbo",
         "attached": {
             "pictures": ["content/pictures/biographies/16_0.jpg"],
             "documents": []

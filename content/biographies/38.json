@@ -10,9 +10,14 @@
         "occupation": "Suora e ambientalista"
     },
     "data": {
-        "content": "Dorothy fino al 1966 ha vissuto negli Stati Uniti lavorando come insegnante e facendo parte delle Suore di nostra signora Namur. Nel 1966 si è trasferita in Brasile per il suo ministero pastorale nello Stato del Maranhao. Si è però anche impegnata nei movimenti sociali nello Stato del Parà, concentrandosi sul disboscamento dell’Amazzonia e sui diritti dei contadini e degli operai della Transamazzonica. Nel 2005 è stata assassinata con sei colpi di pistola a causa della sua testimonianza, dove aveva rivelato che il motivo della deforestazione di quella foresta, era la coltivazione di piantagioni di soia per bovini. ",
+        "content": [
+            {
+                "tag": "p",
+                "content": "Dorothy fino al 1966 ha vissuto negli Stati Uniti lavorando come insegnante e facendo parte delle Suore di nostra signora Namur. Nel 1966 si è trasferita in Brasile per il suo ministero pastorale nello Stato del Maranhao. Si è però anche impegnata nei movimenti sociali nello Stato del Parà, concentrandosi sul disboscamento dell'Amazzonia e sui diritti dei contadini e degli operai della Transamazzonica. Nel 2005 è stata assassinata con sei colpi di pistola a causa della sua testimonianza, dove aveva rivelato che il motivo della deforestazione di quella foresta, era la coltivazione di piantagioni di soia per bovini."
+            }
+        ],
         "category": "Ambiente",
-        "location": "Parà, Brasile  ",
+        "location": "Parà, Brasile",
         "attached": {
             "pictures": ["content/pictures/biographies/38_0.jpg"],
             "documents": []
@@ -20,6 +25,6 @@
     },
     "metadata": {
         "authors": ["Giulia Macelloni"],
-        "sources": ["gariwo.net","wikipedia.org/wiki/Dorothy_Stang"]
+        "sources": ["gariwo.net","wikipedia.org"]
     }
 }
