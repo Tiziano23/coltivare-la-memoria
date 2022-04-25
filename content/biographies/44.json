@@ -6,7 +6,7 @@
         "birthplace": "Budapest in Ungheria",
         "birthday": "1900-12-12",
         "death_date": "1995-12-12",
-        "recognition_date": "1945, 1952, 1977, 2012",
+        "recognition_date": "1945",
         "occupation": "Biofisica, scienziata e inventrice ungherese naturalizzata statunitense che lavorò sulle tecnologie riguardanti l'energia solare"
     },
     "data": {
@@ -17,7 +17,7 @@
             }
         ],
         "category": "Ambiente",
-        "location": "Negli Stati Uniti, poiché è stata assunta da molte aziende, ma il progetto per cui è ricordata di più è stato svolto in Massachusetts.",
+        "location": "Stati Uniti",
         "attached": {
             "pictures": ["content/pictures/biographies/44_0.jpg"],
             "documents": []
