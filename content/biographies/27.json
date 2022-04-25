@@ -1,0 +1,27 @@
+{
+    "person": {
+        "name": "Ferdinando",
+        "surname": "Valletti",
+        "sex": "M",
+        "birthplace": "Verona",
+        "birthday": "1921",
+        "death_date": "2007",
+        "recognition_date": "-",
+        "occupation": "Calciatore"
+    },
+
+    "data": {
+        "content": "Ferdinando Valletti nacque a Verona ne 1921 e a 20 anni arrivò a vestire la maglia del Milan. Durante la seconda Guerra Mondiale, essendo impossibile giocare a calcio, iniziò a lavorare per l’Alfa Romeo, dove maturò il suo pensiero antifascista. Un giorno, nel marzo del 1944, accusato di aver sostenuto degli scioperi nel nord, venne deportato nel campo di concentramento di Mauthausen. Grazie alle sue doti calcistiche riuscì ad avere salva la vita entrando a far parte della squadra di calcio dei nazisti. Trascorreva la maggior parte del tempo ad aiutare i suoi compagni rischiando la vita: lavorava come sguattero nella cucina del campo e rubava del cibo per portarlo alle altre persone. In seguito alla liberazione da parte degli americani, dopo aver superato una situazione critica, si riunì a Milano con sua figlia da cui era stato separato. Viene ricordato per aver aiutato i compagni nel campo di concentramento rischiando la propria vita.",
+        "category": "Sport",
+        "location": "Campo di concentramento di Mauthausen",
+        "attached": {
+            "pictures": ["content/pictures/biographies/27_0.jpg"],
+            "documents": []
+        }
+    },
+
+    "metadata": {
+        "authors": ["Meini Victor"],
+        "sources": ["Un calcio al razzismo", "I giusti dello sport"]
+    }
+}

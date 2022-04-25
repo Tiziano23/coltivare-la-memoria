@@ -1,0 +1,25 @@
+{
+    "person": {
+        "name": "Nelson",
+        "surname": "Mandela",
+        "sex": "M",
+        "birthplace": "Capo Orientale(Sud Africa)",
+        "birthday": "18/07/1918",
+        "death_date": "5/12/2013",
+        "recognition_date": "-",
+        "occupation": "attivista, politico, pacifista"
+    },
+    "data": {
+        "content": "Nelson Mandela, è nato il 18 Luglio 1918 in una tribù nella valle di Capo Orientale in Sudafrica, per tutta la vita si è battuto per i diritti dei neri in Sudafrica: è stato leader dei movimenti anti-apartheid e contro ogni forma razzismo; ha passato 27 anni della sua vita in carcere e nel 1994 è diventato il primo presidente nero nel Sudafrica. L'anno successivo alla sua elezione come presidente, nel 1995, Mandela mostrò il suo appoggiò alla nazionale di rugby durante la coppa del mondo tenutasi in Sudafrica, perché voleva rassicurare i bianchi sul fatto che il loro stile di vita non sarebbe stato compromesso e che era importante per i neri conoscere quello che loro conoscevano bene, il rugby. Mandela capì che lo sport poteva essere la “via” per la riconciliazione e il ritorno del Sudafrica nella comunità internazionale, sostenendo che “la libertà era una lunga corsa, più che una passeggiata”. Gran parte della popolazione, con la fine dell’apartheid, voleva cambiare l’emblema della squadra, gli Springbok, in favore della più neutrale protea, ovvero il fiore nazionale del Sud Africa. Nelson Mandela consapevole che eliminare l’emblema sarebbe stata una follia, poichè oltre il 90% della popolazione bianca non era favorevole, non abolì l’antilope, simbolo di oppressione e segregazione, ma decise che i neri del Sudafrica avrebbero dovuto rivendicarlo come simbolo nazionale per tutti i cittadini. Il giorno della finale, fu un momento importante così Mandela indossò la maglia del capitano degli Springbok e scese in campo per salutare la squadra prima e dopo la partita, assicurandosi che rappresentassero tutto il Sudafrica, non solo la minoranza bianca. Gli Springbok vinsero la coppa del mondo ai tempi supplementari sui neozelandesi; il 40% profitti della coppa del mondo fu destinato allo sviluppo di strutture e scuole per praticare rugby in aree svantaggiate. Grazie a questa vittoria, nonostante la squadra sia ancora in prevalenza formata da bianchi, i giocatori neri stanno diventando sempre più parte del rugby d’élite, ma resta ancora molto da fare per creare un’equità nello sport soprattutto nella società del Sudafrica. ",
+        "category": "Sport",
+        "location": "Sud-Africa",
+        "attached": {
+            "pictures": ["content/pictures/biographies/25_0.jpg"],
+            "documents": []
+        }
+    },
+    "metadata": {
+        "authors": ["Meini Melissa"],
+        "sources": ["I giusti dello sport","Gariwo"]
+    }
+}

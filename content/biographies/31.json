@@ -1,0 +1,27 @@
+{
+    "person": {
+        "name": "Lutz",
+        "surname": "Long",
+        "sex": "M",
+        "birthplace": "Lipsia",
+        "birthday": "27/04/1913",
+        "death_date": "14/07/1943",
+        "recognition_date": "-",
+        "occupation": "Atleta"
+    },
+
+    "data": {
+        "content": "",
+        "category": "Sport",
+        "location": "Olimpiadi di Berlino 1936",
+        "attached": {
+            "pictures": ["content/pictures/biographies/31_0.jpg"],
+            "documents": []
+        }
+    },
+
+    "metadata": {
+        "authors": ["Cai Aurora"],
+        "sources": ["I giusti dello sport", "Gianni Mura"]
+    }
+}
