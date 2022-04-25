@@ -16,7 +16,7 @@
 <body>
     <?php require_once "content/includes/header.html" ?>
 
-    <main class="container-lg mt-4" style="margin-bottom: 5rem">
+    <main class="container-lg mt-4" style="margin-bottom:5rem">
         <div class="slideshow mb-5">
             <div class="picture active">
                 <img src="content/pictures/slideshow-1.jpg" alt="Image 1" class="img-fluid" />

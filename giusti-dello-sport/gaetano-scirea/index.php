@@ -15,7 +15,7 @@
     <body>
         <?php require_once "../../content/includes/header.html" ?>
 
-        <div class="container-lg mt-4" style="margin-bottom: 5rem">
+        <div class="container-lg mt-4" style="margin-bottom:5rem">
             <h1 class="display-1">Gaetano Scirea</h1>
             <iframe
                 class="my-2"

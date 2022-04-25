@@ -17,10 +17,10 @@
 <body>
     <?php require_once "../content/includes/header.html" ?>
 
-    <div class="container-lg mt-4" style="margin-bottom: 5rem">
-        <h1 class="display-2">Giusti per l'ambiente</h1>
-        <div class="article container mb-5" style="max-width:80ch;">
-            <p style="text-align:justify;">
+    <div class="container-lg mt-4" style="margin-bottom:5rem">
+        <div class="container-fluid" style="max-width:120ch;">
+            <h1 class="display-2 mb-4">Giusti per l'ambiente</h1>
+            <p class="mx-auto fs-5" style="text-align:justify;max-width:80ch">
                 I Giusti non sono né santi né eroi, ma persone comuni che a un certo punto della loro vita, di fronte a ingiustizie e persecuzioni, sono stati capaci di andare con coraggio in soccorso dei sofferenti e di interrompere
                 così, con un atto inaspettato nel loro spazio di responsabilità, la catena del male. In questi ultimi anni, il riscaldamento globale e, più in generale, l’inquinamento che l’uomo sta rilasciando nel nostro pianeta, è
                 diventato uno dei più grandi problemi a livello globale. Ognuno di noi, da buon cittadino, dovrebbe battersi per provare a salvare la Terra dalle mani malvagie dell’uomo. Purtroppo però, l’indifferenza e la
@@ -32,16 +32,16 @@
                 cui pochi erano disposti ad ascoltare. Persone come Rachel Carson, Bai Bibyaon, Phillys Omido,Valeri Legasov e tanti altri, hanno fatto i massimi sforzi possibili pur di dare un contributo per la salvaguardia del nostro
                 pianeta e delle persone che lo popolano.
             </p>
-        </div>
-        <h2 class="display-4">Approfondimenti</h2>
-        <div class="item-list vstack gap-5 my-4">
-            <a class="item hstack gap-3 p-3 shadow" href="giusti-ambiente/julia-hill">
-                <img class="image img-thumbnail" src="content/pictures/thumb.jpg" alt="Julia Hill" />
-                <div class="vstack gap-2 justify-content-center">
-                    <p class="name h3">Julia "Butterfly" Hill</p>
-                    <p class="content"></p>
-                </div>
-            </a>
+            <h2 class="display-4">Approfondimenti</h2>
+            <div class="item-list vstack gap-5 my-4">
+                <a class="item hstack gap-3 p-3 shadow" href="giusti-ambiente/julia-hill">
+                    <img class="image img-thumbnail" src="content/pictures/thumb.jpg" alt="Julia Hill" />
+                    <div class="vstack gap-2 justify-content-center">
+                        <p class="name h3">Julia "Butterfly" Hill</p>
+                        <p class="content"></p>
+                    </div>
+                </a>
+            </div>
         </div>
     </div>
 

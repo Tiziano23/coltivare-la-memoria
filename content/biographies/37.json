@@ -4,24 +4,29 @@
         "surname": "Kopenawa",
         "sex": "Maschio",
         "birthplace": "Marakana, Rio Tootobi, Brasile",
-        "birthday": "18 Febbraio 1956",
-        "death_date": "È sempre in vita e ad oggi ha 66 anni.",
+        "birthday": "1956-02-18",
+        "death_date": "/",
         "recognition_date": "2019",
         "occupation": "Leader di una tribù indigena in Brasile"
     },
 
     "data": {
-        "content": "Davi è nato alla fine degli anni '50 in un villaggio alle sorgenti del rio Tootobi, nello stato dell'Amazzonia, in Brasile. Fu soprannominato 'Kopenawa', un tipo di vespa amazzonica, per il suo coraggio e la sua perspicacia. A causa delle epidemie che si diffusero tra la tribù nel 1959 e nel 1967, la comunità di Davi fu decimata ed entrambi i suoi genitori morirono. Grazie alla conoscenza del portoghese, da giovane lavorò per il Dipartimento brasiliano negli Affari Indigeni FUNAI  come guida e interprete per i medici che lavoravano con le comunità yanomami. Negli anni '70 conobbe uno sciamano yanomami molto rispettato che lo introdusse allo sciamanesimo, diventando il suo mentore e maestro. Negli anni '80 iniziò a lottare per la demarcazione ufficiale di un vasto territorio abitato dagli Yanomami negli stati brasiliani di Roraima e Amazzonia. I cercatori d'oro, infatti, avevano invaso illegalmente l'area e molti indigeni morirono per malattie portate dall'esterno, verso cui non avevano difese immunitarie. A seguito di un'importante campagna internazionale guidata da Davi Kopenawa, Survival International (il movimento mondiale per i diritti dei popoli indigeni) e CCPY (Commissione Pro-Yanomami), nel 1992 il governo brasiliano demarcò ufficialmente il territorio yanomami. Insieme ad altri Yanomami del Brasile, Davi Kopenawa ha fondato Hutukara, un'organizzazione che difende i diritti del popolo Yanomami, propone diversi progetti educativi e lavora per proteggere le foreste pluviali e le aree circostanti che oggigiorno sono fortemente minacciate dai cambiamenti climatici e dal preoccupante declino delle biodiversità. Nel 2019, Kopenawa e la Hutukara Yanomami Association hanno ricevuto il Right Livelihood Award a Stoccolma. Il premio arriva in un momento in cui le minacce agli Yanomami e ad altre popolazioni indigene in Brasile sono di nuovo in aumento e oggi Davi continua a difendere i diritti indigeni e l'ambiente. Di recente si è schierato contro un progetto di legge che, se venisse approvato dal Congresso brasiliano, aprirebbe i territori indigeni ad attività minerarie.",
+        "content": [
+            {
+                "tag": "p",
+                "content": "Davi è nato alla fine degli anni '50 in un villaggio alle sorgenti del rio Tootobi, nello stato dell'Amazzonia, in Brasile. Fu soprannominato 'Kopenawa', un tipo di vespa amazzonica, per il suo coraggio e la sua perspicacia. A causa delle epidemie che si diffusero tra la tribù nel 1959 e nel 1967, la comunità di Davi fu decimata ed entrambi i suoi genitori morirono. Grazie alla conoscenza del portoghese, da giovane lavorò per il Dipartimento brasiliano negli Affari Indigeni FUNAI come guida e interprete per i medici che lavoravano con le comunità yanomami. Negli anni '70 conobbe uno sciamano yanomami molto rispettato che lo introdusse allo sciamanesimo, diventando il suo mentore e maestro. Negli anni '80 iniziò a lottare per la demarcazione ufficiale di un vasto territorio abitato dagli Yanomami negli stati brasiliani di Roraima e Amazzonia. I cercatori d'oro, infatti, avevano invaso illegalmente l'area e molti indigeni morirono per malattie portate dall'esterno, verso cui non avevano difese immunitarie. A seguito di un'importante campagna internazionale guidata da Davi Kopenawa, Survival International (il movimento mondiale per i diritti dei popoli indigeni) e CCPY (Commissione Pro-Yanomami), nel 1992 il governo brasiliano demarcò ufficialmente il territorio yanomami. Insieme ad altri Yanomami del Brasile, Davi Kopenawa ha fondato Hutukara, un'organizzazione che difende i diritti del popolo Yanomami, propone diversi progetti educativi e lavora per proteggere le foreste pluviali e le aree circostanti che oggigiorno sono fortemente minacciate dai cambiamenti climatici e dal preoccupante declino delle biodiversità. Nel 2019, Kopenawa e la Hutukara Yanomami Association hanno ricevuto il Right Livelihood Award a Stoccolma. Il premio arriva in un momento in cui le minacce agli Yanomami e ad altre popolazioni indigene in Brasile sono di nuovo in aumento e oggi Davi continua a difendere i diritti indigeni e l'ambiente. Di recente si è schierato contro un progetto di legge che, se venisse approvato dal Congresso brasiliano, aprirebbe i territori indigeni ad attività minerarie."
+            }
+        ],
         "category": "Ambiente",
-        "location": "",
+        "location": "Terre Yanomami, Amazzonia",
         "attached": {
-            "pictures": [],
+            "pictures": ["contetn/pictures/biographies/37_0.jpg"],
             "documents": []
         }
     },
 
     "metadata": {
-        "authors": [],
-        "sources": []
+        "authors": ["Alessandro Bernardeschi"],
+        "sources": ["Wikipedia", "Gariwo", "aknews.it"]
     }
 }

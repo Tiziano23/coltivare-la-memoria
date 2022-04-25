@@ -61,8 +61,8 @@
                 </table>
                 <div>
                     <h2>Biografia e storia</h2>
-                    <div v-html="content"></div>
-                    <hr />
+                    <div v-html="content" style="max-width:80ch;text-align:justify"></div>
+                    <hr>
                     <p><strong>Fonti:</strong> {{sources}}</p>
                     <p><strong>Autori/Autrici:</strong> {{authors}}</p>
                 </div>

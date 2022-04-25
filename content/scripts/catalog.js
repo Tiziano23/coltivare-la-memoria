@@ -32,15 +32,17 @@ const Catalog = {
         this.birthplace = biography.person.birthplace;
         this.occupation = biography.person.occupation;
 
-        this.birthday = biography.person.birthday.length > 4 ? new Date(biography.person.birthday).toLocaleDateString() : biography.person.birthday;
-        this.death_date = biography.person.death_date.length > 4 ? new Date(biography.person.death_date).toLocaleDateString() : biography.person.death_date;
-        this.recognition_date = biography.person.recognition_date.length > 4 ? new Date(biography.person.recognition_date).toLocaleDateString() : biography.person.recognition_date;
+        this.birthday = biography.person.birthday !== "/" ? new Date(biography.person.birthday).toLocaleDateString("it-IT", { year: "numeric", month: "long", day: "numeric" }) : biography.person.birthday;
+        this.death_date = biography.person.death_date !== "/" ? new Date(biography.person.death_date).toLocaleDateString("it-IT", { year: "numeric", month: "long", day: "numeric" }) : biography.person.death_date;
+        this.recognition_date = biography.person.recognition_date !== "/" ? new Date(biography.person.recognition_date).toLocaleDateString("it-IT", { year: "numeric", month: "long", day: "numeric" }) : biography.person.recognition_date;
 
-        this.content = biography.data.content.reduce((acc, el) => { return acc += "<"+el.tag+">"+el.content+"</"+el.tag+">" }, "");
+        this.content = biography.data.content.reduce((acc, el) => {
+            return (acc += "<" + el.tag + ">" + el.content + "</" + el.tag + ">");
+        }, "");
+
         this.category = biography.data.category;
         this.location = biography.data.location;
         this.pictures = biography.data.attached.pictures;
-        console.log(this.content)
 
         this.sources = biography.metadata.sources.reduce((a, i) => a + ", " + i);
         this.authors = biography.metadata.authors.reduce((a, i) => a + ", " + i);

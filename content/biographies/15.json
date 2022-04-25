@@ -1,7 +1,7 @@
 {
     "person": {
         "name": "Daniela",
-        "surname": "pompei",
+        "surname": "Pompei",
         "sex": "F",
         "birthplace": "Roma",
         "birthday": "1959-06-13",
@@ -10,7 +10,12 @@
         "occupation": "Responsabile della Comunità di Sant'Egidio per i servizi ai migranti"
     },
     "data": {
-        "content": "Daniela Pompei, docente in Scienze sociali presso l’Università Roma Tre, è la responsabile della Comunità di Sant’Egidio per i servizi agli immigrati (scuole di lingua, centri di accoglienza e di ospitalità, assistenza a rifugiati e rom). Insieme a Maria Quinto, Daniela Pompei è inoltre responsabile del progetto dei corridoi umani della Comunità e promotrice del movimento \"Genti di Pace\" - una proposta che avvicina vecchi e nuovi europei con il sogno che nessuno sia più straniero, ed è inoltre promotrice e coordinatrice dei \"Corridoi Umanitari\", progetto nato dalla collaborazione fra la Comunità di Sant’Egidio, la Federazione delle Chiese Evangeliche Italiane e la Tavola Valdese, che ha già permesso l’arrivo in Italia di 2.600 profughi in situazione di grave fragilità dalla Siria e dall’Etiopia. È stata anche membro della Consulta italiana dell’Immigrazione presso il Dipartimento Affari Sociali della Presidenza del Consiglio dei Ministri e consigliera del Ministro per l’Integrazione e la Cooperazione internazionale Andrea Riccardi. Nella sua vita, Daniela Pompei Ha ricevuto numerosi premi e riconoscimenti internazionali per il suo impegno nell’accoglienza, la protezione e l’integrazione. Ad esempio ella è onorata in vari giardini dei giusti come i “Giardini di Carpi”, il “Giardino diffuso” di Castelbuono e nel Giardino Virtuale “Storie del Monte Stella”.",
+        "content": [
+            {
+                "tag": "p",
+                "content": "Daniela Pompei, docente in Scienze sociali presso l'Università Roma Tre, è la responsabile della Comunità di Sant'Egidio per i servizi agli immigrati (scuole di lingua, centri di accoglienza e di ospitalità, assistenza a rifugiati e rom). Insieme a Maria Quinto, Daniela Pompei è inoltre responsabile del progetto dei corridoi umani della Comunità e promotrice del movimento \"Genti di Pace\" - una proposta che avvicina vecchi e nuovi europei con il sogno che nessuno sia più straniero, ed è inoltre promotrice e coordinatrice dei \"Corridoi Umanitari\", progetto nato dalla collaborazione fra la Comunità di Sant'Egidio, la Federazione delle Chiese Evangeliche Italiane e la Tavola Valdese, che ha già permesso l'arrivo in Italia di 2.600 profughi in situazione di grave fragilità dalla Siria e dall'Etiopia. È stata anche membro della Consulta italiana dell'Immigrazione presso il Dipartimento Affari Sociali della Presidenza del Consiglio dei Ministri e consigliera del Ministro per l'Integrazione e la Cooperazione internazionale Andrea Riccardi. Nella sua vita, Daniela Pompei Ha ricevuto numerosi premi e riconoscimenti internazionali per il suo impegno nell'accoglienza, la protezione e l'integrazione. Ad esempio ella è onorata in vari giardini dei giusti come i “Giardini di Carpi”, il “Giardino diffuso” di Castelbuono e nel Giardino Virtuale “Storie del Monte Stella”."
+            }
+        ],
         "category": "Migrazione",
         "location": "Roma, Sicilia ",
         "attached": {

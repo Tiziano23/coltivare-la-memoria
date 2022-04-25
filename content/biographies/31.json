@@ -11,7 +11,12 @@
     },
 
     "data": {
-        "content": "",
+        "content": [
+            {
+                "tag": "p",
+                "content": "il periodo storico riguarda la Germania nazista di Hitler, quando la razza ariana primeggiava sulle altre. Hitler era convinto che nello sport tutti gli atleti tedeschi avrebbero primeggiato, ma qualcuno rovina ogni suo piano, Jesse Owens. Owens è nato in Alabama, Stati Uniti, da una famiglia di agricoltori, settimo di dieci figli. Long è nato a Lipsia da una famiglia benestante, ariano, capelli biondi e occhi azzurri. Alle Olimpiadi di Berlino del 1936 dopo aver vinto la gara dei 100 metri, Owens gareggia nella competizione del salto in lungo, ma sa che il favorito è Lutz Long. Quest’ultimo si qualifica immediatamente, ma si accorge che il suo rivale ha difficoltà a tentare una misura giusta dopo due salti nulli. Long gli dà consigli e così Owens si qualifica. Il pomeriggio si gioca la finale e la vince Owens dopo un duello tra titani e Long subito si va a congratulale con il rivale nero sotto gli occhi di un Hitler che vede un suo atleta parlare con qualcuno che riteneva inferiore. Questa amicizia dimostra che tra avversari c’è sempre il rispetto reciproco, abbattendo qualsiasi “muro” che le leggi razziali impongono diventando così un esempio nello sport che si tramanda nel corso degli anni. Long e Owens mantengono sempre contatti, fino a quando Long muore nella battaglia del 14 luglio 1943 perché chiamato a combattere come ufficiale della Luftwaffe. Owens fa lavori umili e ha sempre al suo fianco la moglie Ruth e muore il 31 marzo 1980 per un cancro ai polmoni a causa di una dipendenza che lo accompagnava fino da adolescente, il fumo."
+            }
+        ],
         "category": "Sport",
         "location": "Olimpiadi di Berlino 1936",
         "attached": {
