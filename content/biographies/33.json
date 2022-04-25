@@ -1,0 +1,27 @@
+{
+    "person": {
+        "name": "Aura Lolita",
+        "surname": "Chavez Ixcaquic",
+        "sex": "Femmina",
+        "birthplace": "Guatemala",
+        "birthday": "1972",
+        "death_date": "/",
+        "recognition_date": "/",
+        "occupation": "Attivista per i diritti delle donne e leader internazionale nella lotta per preservare le risorse naturali."
+    },
+
+    "data": {
+        "content": "Aura Lolita Chavez Ixcaquic, conosciuta come Lolita, è un’attivista per i diritti umani in Guatemala. Fa parte del Consiglio delle popolazioni Ki’che (CPK), un’organizzazione fondata nel 2007 con lo scopo di contrastare gli effetti dell'accordo di libero scambio tra Repubblica Dominicana e America Centrale. Principalmente si occupa della salvaguardia delle risorse naturali e dei diritti umani contro l’espansione delle industrie minerarie, del legno, idroelettriche e agricole nel territorio, che fanno oramai affidamento sullo sfruttamento minorile, il lavoro forzato con straordinari non pagati e salari molto bassi. I Ki’che sono diventati ormai il simbolo della lotta per i diritti umani ambientali. Negli anni che vanno dal 1960 al 1996, hanno affrontato, durante la guerra in Guatemala, una campagna genocida di stupro, morte e accaparramento di terre. Quello che però preoccupa maggiormente è l’indifferenza di fronte a queste azioni: le violazioni dei diritti umani in certi territori continuano a non essere punite. Nel 2007 Lolita e gli altri membri dell’associazione sono riusciti a bloccare un camion che trasportava legname senza licenza di sfruttamento, subendo però minacce di morte. Lolita è dovuta fuggire in Spagna per la propria protezione, in quanto in governo guatemalteco si rifiutava di proteggerla.  Nell’ottobre del 2017 il Parlamento Europeo ha incluso Chavez tra i tre finalisti del Sacharov Human Rights Prize. Il premio Sakharov è un riconoscimento dato per premiare personalità o organizzazioni che hanno dedicato la loro vita alla difesa dei diritti umani e delle libertà individuale.  In un’intervista Lolita ha dichiarato che un’occasione del genere avrebbe permesso al popolo Maya di rendersi più visibile, facendo emergere la lotta contro al proprio paese. Da quel momento l’Europa non avrebbe potuto rendersi indifferente davanti a questa situazione perché le aziende europee sarebbero state ritenute responsabili. Nell’ultima parte del suo intervento ha inoltre aggiunto che questo problema non riguardava solamente i diritti umani, ma una loro prospettiva e speranza in una relazione tra natura e biodiversità. Nel gennaio 2018 ha ricevuto, inoltre, il premio Ignacio Ellacuría dal governo basco per il suo lavoro nel difendere la terra del popolo K'iche dallo sfruttamento.",
+        "category": "Ambiente",
+        "location": "Guatemala ",
+        "attached": {
+            "pictures": [],
+            "documents": []
+        }
+    },
+
+    "metadata": {
+        "authors": ["Asia Capponi"],
+        "sources": ["gariwo.net"]
+    }
+}
