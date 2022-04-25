@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="page" content="giusti-nazioni">
+    <meta name="page" content="ambiti">
     <base href="../../">
 
     <title>Coltivare la Memoria - Giuseppe dani</title>
@@ -18,8 +18,8 @@
 
     <div class="container-lg mt-4" style="margin-bottom: 5rem">
         <h1 class="display-1">Giuseppe Dani</h1>
-        <h2 class="mb-4">Il fattore di colleoli che salvò una famiglia ebrea</h2>
-        <div style="font-size: 1.2em;">
+        <h2 class="mb-4">Il fattore di Colleoli che salvò una famiglia ebrea</h2>
+        <div class="container-sm" style="font-size:1.2em;max-width:80ch;text-align:justify;">
             <p>
                 Giuseppe Dani è nato in provincia di Pisa il 21 Maggio 1909, ha vissuto con i suoi genitori Maria Bonistalli e Giovanni Dani in provincia di Pisa, precisamente a Mezzo Piano, una frazione di San Miniato Basso. Ha studiato
                 presso l'Istituto Tecnico Agrario Castelletti di Signa e ha lavorato presso varie fattorie in Toscana, tra le quali quella di Colleoli, che era proprietà della famiglia Cividalli, composta da Wanda Bonfiglioli, Giorgio

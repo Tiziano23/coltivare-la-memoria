@@ -4,5 +4,5 @@
 <script src="content/includes/header.js"></script>
 <script src="content/includes/footer.js"></script>
 
-<header-comp active-page="home"></header-comp>
+<header-comp active-page=""></header-comp>
 <footer-comp></footer-comp>

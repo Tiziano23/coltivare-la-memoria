@@ -4,16 +4,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
 
 #main-header {
-    user-select: none;
     background-color: #e8f6e9;
 }
+#main-header .logo {
+    margin: 0 .7rem 0 0;
+    padding: 0;
+}
 #main-header .title {
+    font-size: 1.65em;
     font-family: 'Cinzel', serif;
     font-weight: 500;
     text-decoration: inherit;
-}
-#main-header .logo {
-    padding: 0;
 }
 #main-header .cta {
     border-width: 0;
