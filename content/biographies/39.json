@@ -19,7 +19,7 @@
         "category": "Ambiente",
         "location": "Regno Unito",
         "attached": {
-            "pictures": ["content/pictures/biographies/39_0.jpg"],
+            "pictures": ["content/pictures/biographies/39_0.jpg", "content/pictures/biographies/39_1.jpg"],
             "documents": []
         }
     },

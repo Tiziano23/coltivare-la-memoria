@@ -19,7 +19,7 @@
         "category": "Ambiente",
         "location": "Foresta di Headwaters in California",
         "attached": {
-            "pictures": ["content/pictures/biographies/42_0.jpg"],
+            "pictures": ["content/pictures/biographies/42_0.jpg", "content/pictures/biographies/42_1.jpg"],
             "documents": []
         }
     },

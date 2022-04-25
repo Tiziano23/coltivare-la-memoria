@@ -18,7 +18,7 @@
             }
         ],
         "category": "Sport",
-        "location": "-",
+        "location": "/",
         "attached": {
             "pictures": ["content/pictures/biographies/28_0.jpg"],
             "documents": []

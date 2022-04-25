@@ -19,7 +19,7 @@
         "category": "Ambiente",
         "location": "Kenya",
         "attached": {
-            "pictures": ["content/pictures/biographies/49_0.jpg"],
+            "pictures": ["content/pictures/biographies/49_0.jpg", "content/pictures/biographies/49_1.jpg"],
             "documents": []
         }
     },
