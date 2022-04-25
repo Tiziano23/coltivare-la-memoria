@@ -10,7 +10,12 @@
         "occupation": "Raccoglitrice di olive "
     },
     "data": {
-        "content": "Nata a Lesbo nel 1922 in seguito alla fuga dei genitori dalla Turchia dalle persecuzioni contro i cristiani, approdati su quelle stesse coste dove adesso sono tornati a sbarcare migranti. Emilia Kamvisi è ancora oggi ricordata in tutto il mondo per il suo amore e la sua umanità nell’aiutare i profughi. Infatti, dopo una vita di stenti e di duro lavoro, ha deciso di dedicare la sua vita al salvataggio di migranti (dalle trenta alle sessanta imbarcazioni al giorno) che approdavano sulle sponde dell’isola di Lesbo, sul molo di Skalan Sikamineas per tutto il 2015, fino all’ accordo della UE con la Turchia che ha fermato l’esodo dei profughi. Iconica e famosa è diventata l’immagine che la ritrae insieme alla cugina, Maritsa Maurapidu (85 anni) e all’amica Efstasia Mavrapidu (90 anni), mentre allatta con un biberon un piccolo migrante siriano appena sbarcato, scena che le ha donato l’appellativo di “Nonna di Lesbo” con il quale è molto conosciuta. Emilia è divenuta così simbolo dell’isola: vive a Skala Sikamias, un villaggio sulla punta nord di Lesbo, che si raggiunge su un’unica strada, da Mitilene, che prima si arrampica su montagne deserte e poi scende giù, verso il mare, srotolandosi attorno ai campi di ulivo. Nonostante ciò continua ad accogliere i migranti come ha sempre fatto, non avendo niente da offrire se non coperte, cibo, riparo, abbracci e umanità. Nel 2016 ha ricevuto la candidatura al Nobel per la pace, insieme al pescatore di Lesbo Stratos Valiamos. Anche in questo caso, con molta umiltà, Emilia si è detta onorata di questo riconoscimento ma ha affermato di non aver fatto poi nulla di tanto speciale; nulla che non fosse per lei normale ed umano. ",
+        "content": [
+            {
+                "tag": "p",
+                "content": "Nata a Lesbo nel 1922 in seguito alla fuga dei genitori dalla Turchia dalle persecuzioni contro i cristiani, approdati su quelle stesse coste dove adesso sono tornati a sbarcare migranti. Emilia Kamvisi è ancora oggi ricordata in tutto il mondo per il suo amore e la sua umanità nell'aiutare i profughi. Infatti, dopo una vita di stenti e di duro lavoro, ha deciso di dedicare la sua vita al salvataggio di migranti (dalle trenta alle sessanta imbarcazioni al giorno) che approdavano sulle sponde dell'isola di Lesbo, sul molo di Skalan Sikamineas per tutto il 2015, fino all' accordo della UE con la Turchia che ha fermato l'esodo dei profughi. Iconica e famosa è diventata l'immagine che la ritrae insieme alla cugina, Maritsa Maurapidu (85 anni) e all'amica Efstasia Mavrapidu (90 anni), mentre allatta con un biberon un piccolo migrante siriano appena sbarcato, scena che le ha donato l'appellativo di “Nonna di Lesbo” con il quale è molto conosciuta. Emilia è divenuta così simbolo dell'isola: vive a Skala Sikamias, un villaggio sulla punta nord di Lesbo, che si raggiunge su un'unica strada, da Mitilene, che prima si arrampica su montagne deserte e poi scende giù, verso il mare, srotolandosi attorno ai campi di ulivo. Nonostante ciò continua ad accogliere i migranti come ha sempre fatto, non avendo niente da offrire se non coperte, cibo, riparo, abbracci e umanità. Nel 2016 ha ricevuto la candidatura al Nobel per la pace, insieme al pescatore di Lesbo Stratos Valiamos. Anche in questo caso, con molta umiltà, Emilia si è detta onorata di questo riconoscimento ma ha affermato di non aver fatto poi nulla di tanto speciale; nulla che non fosse per lei normale ed umano. "
+            }
+        ],
         "category": "Migrazione",
         "location": "Isola di Lesbo ",
         "attached": {
@@ -19,7 +24,7 @@
         }
     },
     "metadata": {
-        "authors": ["ilfattoquotidiano.it", "dilei.it", "avvenire.it", "gariwo.net"],
-        "sources": ["Bellone Luca"]
+        "authors": ["Bellone Luca"],
+        "sources": ["ilfattoquotidiano.it", "dilei.it", "avvenire.it", "gariwo.net"]
     }
 }

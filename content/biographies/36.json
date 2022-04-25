@@ -2,18 +2,23 @@
     "person": {
         "name": "Alexei",
         "surname": "Ananenko",
-        "sex": "Maschio ",
-        "birthplace": "Inta, Russia ",
+        "sex": "Maschio",
+        "birthplace": "Inta, Russia",
         "birthday": "1959-10-13",
         "death_date": "/",
         "recognition_date": "/",
-        "occupation": "Era un ingegnere e tecnologo dell'industria nucleare sovietica."
+        "occupation": "Ingegnere e Tecnologo dell'industria nucleare sovietica"
     },
 
     "data": {
-        "content": "Ananenko nasce nel 1959 in Russia, era un ingegnere nucleare laureatosi presso l’Istituto energetico di Mosca nel 1983. Egli è sposato e ha un figlio. Inoltre aveva partecipato alla costruzione della centrale di Chernobyl, infatti, collaborò al disegno delle saracinesche e conosceva il luogo e il modo in cui erano piazzate le valvole. L’ingegnere, inoltre, non si ritiene un eroe perché egli aveva solamente eseguito gli ordini che gli erano stati affidati. Nei primi giorni di Maggio 1986, Alexei ricevette una telefonata dal capo del dipartimento del suo settore di lavoro: nella telefonata veniva informato che avrebbe dovuto compiere una operazione nelle stanze sottostanti al reattore in modo da far defluire l’acqua accumulata e quindi evitare una possibile esplosione termica dovuta al contatto con l’acqua. Fu scelto Alexei in quanto era uno di coloro che conoscevano meglio la zona in cui doveva essere svolta tale operazione. Per questa mansione però erano necessarie almeno due persone e quindi Alexei chiese ai suoi superiori se altri due ingegneri avessero potuto seguirlo. Il 6 Maggio fu il giorno in cui eseguirono il compito a loro assegnatogli. Per questa operazione non furono muniti di abiti adatti al lavoro, infatti fu dato loro solo una semplice mascherina, stivali anti acqua e una tuta impermeabile, inoltre, furono dotati di due dosimetri: uno posizionato sulla caviglia sinistra e uno all’altezza del cuore. L’operazione in sé è stata molto veloce e i tre uomini portarono a compimento l’operato in brevissimo tempo e senza nessun intoppo gestionale. Al loro rientro nelle sale superiori, nessuno era lì per applaudirli: quello fu un semplice task di lavoro operato in tutta normalità e in tempi molto brevi. ",
+        "content": [
+            {
+                "tag": "p",
+                "content": "Ananenko nasce nel 1959 in Russia, era un ingegnere nucleare laureatosi presso l'Istituto energetico di Mosca nel 1983. Egli è sposato e ha un figlio. Inoltre aveva partecipato alla costruzione della centrale di Chernobyl, infatti, collaborò al disegno delle saracinesche e conosceva il luogo e il modo in cui erano piazzate le valvole. L'ingegnere, inoltre, non si ritiene un eroe perché egli aveva solamente eseguito gli ordini che gli erano stati affidati. Nei primi giorni di Maggio 1986, Alexei ricevette una telefonata dal capo del dipartimento del suo settore di lavoro: nella telefonata veniva informato che avrebbe dovuto compiere una operazione nelle stanze sottostanti al reattore in modo da far defluire l'acqua accumulata e quindi evitare una possibile esplosione termica dovuta al contatto con l'acqua. Fu scelto Alexei in quanto era uno di coloro che conoscevano meglio la zona in cui doveva essere svolta tale operazione. Per questa mansione però erano necessarie almeno due persone e quindi Alexei chiese ai suoi superiori se altri due ingegneri avessero potuto seguirlo. Il 6 Maggio fu il giorno in cui eseguirono il compito a loro assegnatogli. Per questa operazione non furono muniti di abiti adatti al lavoro, infatti fu dato loro solo una semplice mascherina, stivali anti acqua e una tuta impermeabile, inoltre, furono dotati di due dosimetri: uno posizionato sulla caviglia sinistra e uno all'altezza del cuore. L'operazione in sé è stata molto veloce e i tre uomini portarono a compimento l'operato in brevissimo tempo e senza nessun intoppo gestionale. Al loro rientro nelle sale superiori, nessuno era lì per applaudirli: quello fu un semplice task di lavoro operato in tutta normalità e in tempi molto brevi."
+            }
+        ],
         "category": "Ambiente",
-        "location": "Nella centrale nucleare di Chernobyl. ",
+        "location": "Centrale nucleare di Chernobyl",
         "attached": {
             "pictures": [],
             "documents": []
@@ -22,6 +27,6 @@
 
     "metadata": {
         "authors": ["Dolfi Giacomo"],
-        "sources": ["francescadani.com/chernobyl/chernobyl-synopsis/alexei-ananenko"]
+        "sources": ["francescadani.com"]
     }
 }

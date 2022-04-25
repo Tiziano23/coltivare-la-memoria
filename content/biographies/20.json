@@ -10,7 +10,12 @@
         "occupation": "Proprietaria dell'hotel Votsala"
     },
     "data": {
-        "content": "Daphne Vloumidi, nata nel 1956 e proprietaria dell’hotel Votsala sulla costa est di Lesbo, ha soccorso i migranti, coinvolgendo anche gli ospiti dell’hotel, per far fronte all’ondata di profughi che a migliaia raggiungevano l’isola dalle coste turche dalla fine del 2014. A causa del suo aiuto incondizionato verso i profughi, Daphne è stata arrestata nel giugno del 2015 per aver caricato migranti in auto con lo scopo di condurli al porto dalle zone interne, vietate dalle autorità, mentre cercavano di raggiungere Atene. Aveva inoltre organizzato presso l’hotel un vero e proprio centro di emergenza. La sua protesta ha portato a nuove regole, più umane, verso i migranti sbarcati sulle coste di Lesbo. ",
+        "content": [
+            {
+                "tag": "p",
+                "content": "Daphne Vloumidi, nata nel 1956 e proprietaria dell'hotel Votsala sulla costa est di Lesbo, ha soccorso i migranti, coinvolgendo anche gli ospiti dell'hotel, per far fronte all'ondata di profughi che a migliaia raggiungevano l'isola dalle coste turche dalla fine del 2014. A causa del suo aiuto incondizionato verso i profughi, Daphne è stata arrestata nel giugno del 2015 per aver caricato migranti in auto con lo scopo di condurli al porto dalle zone interne, vietate dalle autorità, mentre cercavano di raggiungere Atene. Aveva inoltre organizzato presso l'hotel un vero e proprio centro di emergenza. La sua protesta ha portato a nuove regole, più umane, verso i migranti sbarcati sulle coste di Lesbo."
+            }
+        ],
         "category": "Migrazione",
         "location": "Lesbo",
         "attached": {

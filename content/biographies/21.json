@@ -10,9 +10,18 @@
         "occupation": "Nuotatrice"
     },
     "data": {
-        "content": "",
+        "content": [
+            {
+                "tag": "p",
+                "content": "Yusra Mardini nasce il 5 Marzo 1998 a Damasco, in Siria. Inizia a praticare il nuoto all’età di 3 anni e rappresenta la Siria ai Campionati mondiali di nuoto in vasca corta 2012, in Turchia. In seguito allo scoppio della guerra civile in Siria, diventa più difficile e pericoloso vivere nel Paese. Un giorno, Mentre Yusra e sua sorella Sarah si trovano in una piscina di Damasco, una bomba buca il tetto dell’impianto sportivo e si immerge in acqua. Per fortuna, a causa di un difetto di produzione, l’ordigno esplosivo non scoppia e le due ragazze riescono a mettersi in salvo. Questo episodio convince definitivamente le due sorelle a lasciare il loro Paese. In una notte di Agosto del 2015, assieme ad altri 18 profughi, Sarah e Yusra salgono su un gommone, progettato per 9 persone, diretto verso l’isola di Lesbo. Durante il viaggio scoppia una tempesta e l’imbarcazione, già sovraffollata, non riesce a reggere anche il peso dell’acqua e inizia ad affondare. Le sorelle Mardini decidono allora di tuffarsi in acqua con altri due uomini per provare a tenerla a galla. Per tre ore e mezzo trascinano la barca fino all’approdo sull’isola di Lesbo, dove si possono considerare finalmente in salvo. Dopo essere sbarcate sulle coste greche, nel mese di settembre, le due sorelle raggiungono Berlino, in Germania, dove trovano una seconda casa e riprendo gli allenamenti di nuoto presso il club Wasserfreunde Spandau 04. Nel 2016 Yusra riesce a partecipare alle Olimpiadi di Rio de Janeiro nella nuovissima Squadra dei Rifugiati, un’esperienza che si ripete anche ai Giochi di Tokyo del 2021 dove partecipa anche come portabandiera del suo team."
+            },
+            {
+                "tag": "p",
+                "content": "Dal 2020 è ricordata con una targa al Giardino dei Giusti di Milano."
+            }
+        ],
         "category": "Migrazione",
-        "location": "Mar mediterraneo",
+        "location": "Mar Mediterraneo",
         "attached": {
             "pictures": ["content/pictures/biographies/21_0.jpg"],
             "documents": []
@@ -20,6 +29,6 @@
     },
     "metadata": {
         "authors": ["Cristian Fioravanti"],
-        "sources": ["wikipedia.org","gariwo.net","luce.lanazione.it/yusra-mardini-la-nuotatrice-olimpica-rifugiata-che-salvo-i-suoi-compagni-di-viaggio/"]
+        "sources": ["wikipedia.org", "gariwo.net", "lanazione.it"]
     }
 }
