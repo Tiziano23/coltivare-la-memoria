@@ -9,12 +9,12 @@
 
     <title>Coltivare la Memoria - Biografie</title>
 
-    <link rel="stylesheet" href="content/styles/global.css" />
+    <?php require_once "../../content/includes/global.html" ?>
     <link rel="stylesheet" href="content/styles/biografie/archivio/style.css" />
 </head>
 
 <body>
-    <?php include_once "../../content/includes/header.html" ?>
+    <?php require_once "../../content/includes/header.html" ?>
 
     <div id="app" class="container-lg mt-4" style="margin-bottom: 5rem">
         <div class="row">
@@ -70,7 +70,7 @@
         </div>
     </div>
 
-    <?php include_once "../../content/includes/footer.html" ?>
+    <?php require_once "../../content/includes/footer.html" ?>
 
     <script src="https://unpkg.com/vue@next"></script>
     <script src="content/scripts/catalog.js"></script>

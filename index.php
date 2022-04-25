@@ -9,12 +9,12 @@
 
     <title>Coltivare la Memoria - Home</title>
 
-    <link rel="stylesheet" href="content/styles/global.css" />
+    <?php require_once "content/includes/global.html" ?>
     <link rel="stylesheet" href="content/styles/index/style.css" />
 </head>
 
 <body>
-    <?php include_once "content/includes/header.html" ?>
+    <?php require_once "content/includes/header.html" ?>
 
     <main class="container-lg mt-4" style="margin-bottom: 5rem">
         <div class="slideshow mb-5">
@@ -55,7 +55,7 @@
         </div>
     </main>
 
-    <?php include_once "content/includes/footer.html" ?>
+    <?php require_once "content/includes/footer.html" ?>
 
     <script src="content/scripts/index.js"></script>
 </body>

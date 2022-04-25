@@ -10,12 +10,12 @@
 
     <title>Coltivare la Memoria - Donne che hanno lottato per la parità di genere</title>
 
-    <link rel="stylesheet" href="content/styles/global.css" />
+    <?php require_once "../content/includes/global.html" ?>
     <link rel="stylesheet" href="content/styles/donne-e-lotta-per-la-parita-di-genere/style.css" />
 </head>
 
 <body>
-    <?php include_once "../content/includes/header.html" ?>
+    <?php require_once "../content/includes/header.html" ?>
 
     <div class="container-lg mt-4" style="margin-bottom: 5rem">
         <div class="article mb-5">
@@ -34,7 +34,7 @@
         </div> -->
     </div>
 
-    <?php include_once "../content/includes/footer.html" ?>
+    <?php require_once "../content/includes/footer.html" ?>
 </body>
 
 </html>

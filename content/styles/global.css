@@ -3,25 +3,17 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
 
-* {
-    box-sizing: border-box;
-}
-
 #main-header {
-    background-color: #e8f6e9;
     user-select: none;
+    background-color: #e8f6e9;
 }
 #main-header .title {
-    margin-left: 1rem;
-    color: inherit;
-    font-size: 1.5em;
     font-family: 'Cinzel', serif;
     font-weight: 500;
     text-decoration: inherit;
 }
 #main-header .logo {
-    height: 4rem;
-    object-fit: contain;
+    padding: 0;
 }
 #main-header .cta {
     border-width: 0;

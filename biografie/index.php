@@ -9,12 +9,12 @@
 
     <title>Coltivare la Memoria - Biografie</title>
 
-    <link rel="stylesheet" href="content/styles/global.css" />
+    <?php require_once "../content/includes/global.html" ?>
     <link rel="stylesheet" href="content/styles/biografie/style.css" />
 </head>
 
 <body>
-    <?php include_once "../content/includes/header.html" ?>
+    <?php require_once "../content/includes/header.html" ?>
 
     <div class="container-lg mt-4 vstack gap-5" style="margin-bottom: 5rem">
         <div class="map">
@@ -36,7 +36,7 @@
         </div>
     </div>
 
-    <?php include_once "../content/includes/footer.html" ?>
+    <?php require_once "../content/includes/footer.html" ?>
 
     <script src="content/scripts/loader.js"></script>
 </body>

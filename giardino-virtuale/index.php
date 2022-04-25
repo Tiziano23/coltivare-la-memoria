@@ -10,7 +10,7 @@
 
     <title>Coltivare la Memoria - Giardino virtuale</title>
 
-    <link rel="stylesheet" href="content/styles/global.css" />
+    <?php require_once "../content/includes/global.html" ?>
     <link rel="stylesheet" href="content/styles/giardino-virtuale/style.css" />
 
     <script src="content/scripts/htmlTemplateLoader.js"></script>
@@ -19,7 +19,7 @@
 
 <body>
     <div class="vstack gap-0" id="content">
-        <?php include_once "../content/includes/header.html" ?>
+        <?php require_once "../content/includes/header.html" ?>
         <iframe
             class="virtual-tour"
             allow="vr; gyroscope; accelerometer; fullscreen; autoplay; xr"

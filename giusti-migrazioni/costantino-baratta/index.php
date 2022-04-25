@@ -10,11 +10,11 @@
 
     <title>Coltivare la Memoria - Costantino Baratta</title>
 
-    <link rel="stylesheet" href="content/styles/global.css" />
+    <?php require_once "../../content/includes/global.html" ?>
 </head>
 
 <body>
-    <?php include_once "../../content/includes/header.html" ?>
+    <?php require_once "../../content/includes/header.html" ?>
 
     <div class="container-lg mt-4" style="margin-bottom: 5rem">
         <h1 class="display-1">Costantino Baratta</h1>
@@ -24,7 +24,7 @@
         </div>
     </div>
 
-    <?php include_once "../../content/includes/footer.html" ?>
+    <?php require_once "../../content/includes/footer.html" ?>
 </body>
 
 </html>
