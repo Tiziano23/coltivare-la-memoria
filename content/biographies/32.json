@@ -1,0 +1,27 @@
+{
+    "person": {
+        "name": "Vêra",
+        "surname": "Cáslavská",
+        "sex": "F",
+        "birthplace": "Praga, Repubblica Ceca",
+        "birthday": "03/05/1942",
+        "death_date": "30/08/2016",
+        "recognition_date": "-",
+        "occupation": "Ginnasta"
+    },
+
+    "data": {
+        "content": "Nata a Praga nel 1942, Vêra Cáslavská è stata una straordinaria atleta, vincitrice di numerose medaglie, tra cui 11 medaglie olimpiche, 10 medaglie dei campionati del mondo e 13 europee. Diventò per quattro volte atleta dell’anno in Cecoslovacchia e una volta nel mondo. La ricordiamo perché nei giochi olimpici di Città del Messico si voltò sul podio durante l’inno sovietico, rischiando la squalifica dal primo posto. Fece ciò perché non approvava l’invasione sovietica, che voleva soffocare la primavera di Praga. La primavera di Praga è stato un periodo storico dei primi mesi del 1968 di democratizzazione, nel quale la Cecoslovacchia con Dubček dimostrò maggiore autonomia con una serie di riforme dall’URSS. Il timore da parte dell’URSS che ciò potesse rappresentare una minaccia per l’intero blocco orientale portò l’Unione Sovietica ad invadere il paese il 21 agosto 1968 e perciò a opprimere queste riforme. Vêra, tornata in patria, fu osteggiata dal governo ceco e le fu proposto di appoggiare il regime per guadagnarsi la libertà. Lei però preferì lavorare come donna delle pulizie e non gareggiare pur di non appoggiare l’invasione sovietica. Inoltre, dopo la rivoluzione di velluto con la quale riconquistò la libertà di vivere la propria vita, rifiutò l’offerta di diventare ambasciatrice In Giappone e sindaco di Praga, perché era una donna umile e integerrima. Morì nel 2016 e purtroppo, quando il presidente fece un discorso in memoria di Vêra, citò solo i suoi meriti sportivi, cercando di cancellare dalla memoria del paese l’oppressione totalitaria sovietica e la coraggiosa lotta contro essa, a cui Vêra aveva partecipato.",
+        "category": "Sport",
+        "location": "Città del Messico, Messico",
+        "attached": {
+            "pictures": ["content/pictures/biographies/32_0.jpg"],
+            "documents": []
+        }
+    },
+
+    "metadata": {
+        "authors": [],
+        "sources": []
+    }
+}

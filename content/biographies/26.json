@@ -1,0 +1,25 @@
+{
+    "person": {
+        "name": "Enes",
+        "surname": "Kanter",
+        "sex": "M",
+        "birthplace": "Zurigo, Svizzera",
+        "birthday": "20/05/1992",
+        "death_date": "-",
+        "recognition_date": "-",
+        "occupation": "Cestista"
+    },
+    "data": {
+        "content": "Enes Kanter, 27 anni, musulmano, nato a Zurigo da genitori turchi e cresciuto in Turchia, è considerato uno dei migliori cestisti europei. Dal 2011 milita nella NBA, dove ha giocato con Utah, Oklahoma City, New York, Portland e Boston Celtics. Kanter non ha mai nascosto la sua vicinanza al movimento Hizmet di Fethullah Gülen, politico, predicatore e principale avversario politico del rais turco: vive in esilio autoimposto in Pennsylvania dal 1999 e nonostante questo è ritenuto dal governo turco il principale responsabile del tentato colpo di Stato avvenuto nel luglio 2016 da parte di una parte delle Forze armate turche per tentare di rovesciare il regime di Erdogan. Nella notte del 15 luglio 2016 all'alba la Turchia si sveglia nell'era dello Stato di Emergenza e con il presidente turco intenzionato a spazzare via rivali storici e oppositori del suo partito. Kanter rende pubbliche le sue posizioni insultando Erdogan. Nel 2017 Kanter perde la cittadinanza turca e rischia l'arresto anche all'estero. Mentre si trova infatti in Indonesia per seguire le sue attività benefiche, viene avvertito dal suo agente che le autorità locali lo stanno cercando per catturarlo. Sale sul primo volo e scopre che il suo passaporto è stato “cancellato”.  Kanter è ora un apolide. Viene accusato di essere tra i favoreggiatori del colpo di Stato. A luglio 2019 ha svelato che il consolato turco negli Stati Uniti ha annullato un camp estivo della sua associazione benefica. In Turchia non vengono trasmesse le sue partite NBA da 3 anni, non è convocato in nazionale da 4, ed è stato accusato pubblicamente anche dal presidente della Federazione turca di basket, Hedo Turkoglu, sostenitore di Erdogan. La Turchia ha emesso una red notice contro di lui, cioè una richiesta all'Interpol di localizzare, arrestare ed estradare un criminale o sospetto tale. Nel corso di una conferenza stampa ha definito il presidente della Turchia Erdogan, «l'Hitler del nostro secolo».",
+        "category": "Sport",
+        "location": "Turchia",
+        "attached": {
+            "pictures": ["content/pictures/biographies/26_0.jpg"],
+            "documents": []
+        }
+    },
+    "metadata": {
+        "authors": ["Sanviti Sara"],
+        "sources": ["I giusti dello sport","Gariwo"]
+    }
+}

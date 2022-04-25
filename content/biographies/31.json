@@ -1,0 +1,27 @@
+{
+    "person": {
+        "name": "Lutz",
+        "surname": "Long",
+        "sex": "M",
+        "birthplace": "Lipsia",
+        "birthday": "27/04/1913",
+        "death_date": "14/07/1943",
+        "recognition_date": "-",
+        "occupation": "Atleta"
+    },
+
+    "data": {
+        "content": "",
+        "category": "",
+        "location": "",
+        "attached": {
+            "pictures": [],
+            "documents": []
+        }
+    },
+
+    "metadata": {
+        "authors": [],
+        "sources": []
+    }
+}

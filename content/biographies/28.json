@@ -1,0 +1,27 @@
+{
+    "person": {
+        "name": "Gaetano",
+        "surname": "Scirea",
+        "sex": "M",
+        "birthplace": "Cernusco sul Naviglio",
+        "birthday": "25/05/1953",
+        "death_date": "03/09/1989",
+        "recognition_date": "-",
+        "occupation": "Calciatore"
+    },
+
+    "data": {
+        "content": "Gaetano Scirea è stato un calciatore e allenatore italiano, era un difensore. Rappresentava l’emblema del calciatore esemplare e della correttezza sportiva. Divenne un giocatore importantissimo per la sua squadra, la Juventus. Il suo primo allenatore fu Gianni Crimella che riconobbe fin da subito che fosse un grande giocatore. La sua più grande soddisfazione non furono scudetti o coppe vinte, ma fu il diploma da maestro, che prese per far contento il padre che non aveva digerito il suo abbandono degli studi per diventare calciatore. Arrivava da una famiglia umile e onesta di operai, dove l’importanza dei valori e l’onestà erano al primo posto nell’educazione del figlio. Venne bocciato in terza media e durante l’estate andò a lavorare per riparare l’imbarazzo creato. I valori erano talmente forti in lui che nella sua vita andò una sola volta in discoteca perchè al rientro, al mattino alle 6 si imbattè in un operaio che a quell’ora andava al lavoro. Quell’immagine lo portò a pensare al padre che aveva faticato tanto per la famiglia e provò vergogna per essere andato a festeggiare mentre vi erano persone che a quell’ora andavano a guadagnarsi da vivere. Per questo motivo non andò più in una discoteca. Vinse il suo primo scudetto nel 1975, con la Juventus. Dall’Atalanta passò infatti alla Juventus e inizialmente quasi sembrava in imbarazzo ad entrare nel gruppo di campioni composto da persone del calibro di Zoff che divenne poi suo grande amico. Andava al campo per allenarsi con il tram e cercava di non farsi riconoscere in mezzo alla gente, come suo padre gli aveva insegnato, non voleva dar fastidio. Era sposato con Mariella Cavanna dalla quale, dopo un colpo di fulmine, non si separò mai più. Prima di iniziare ogni partita con lo sguardo cercava in tribuna lei ed il figlio per salutarli. Decise di lasciare il ruolo di giocatore e durante un breve periodo ebbe un’esperienza da vice allenatore della Juventus. Nel 1988 abbandonò il mondo del calcio con 7 Scudetti, 2 Coppe Italia, 1 Coppa dei Campioni, 1 Coppa delle Coppe, 1 Coppa UEFA, 1 Supercoppa europea e 1 Coppa Intercontinentale, praticamente tutto ciò che era possibile vincere. Nel 1989 venne mandato in Polonia ad osservare una squadra estratta come avversario dei bianconeri nella Coppa Uefa. Prima di partire disse alla moglie che quello sarebbe stato l’ultimo viaggio che voleva fare perché voleva stare di più con la famiglia e fu purtroppo davvero il suo ultimo viaggio. In Polonia, lungo la strada per l’aeroporto dove avrebbe dovuto prendere il volo di ritorno il suo autista fece un sorpasso molto pericoloso e l’auto centrò un pulmino nella corsia opposta.  L’auto prese fuoco e per Gaetano non ci fu via di scampo. La mattina del 3 Settembre 1989 la “Domenica Sportiva” si aprì con la notizia drammatica della morte di Gaetano Scirea: calciatore e uomo giusto sarà sempre ricordato per la sua grande umiltà. È riuscito a concludere la sua carriera da calciatore senza neppure un cartellino rosso. Definito come calciatore perbene e nobile, uomo di buone maniere, lavoro e onestà resterà sempre un esempio di correttezza sportiva. ",
+        "category": "Sport",
+        "location": "-",
+        "attached": {
+            "pictures": ["content/pictures/biographies/28_0.jpg"],
+            "documents": []
+        }
+    },
+
+    "metadata": {
+        "authors": ["Pieroni Tommaso"],
+        "sources": ["I giusti dello sport"]
+    }
+}
