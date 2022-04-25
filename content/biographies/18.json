@@ -15,7 +15,7 @@
         "category": "Migrazione",
         "location": "Lesbo",
         "attached": {
-            "pictures": ["/../../content/pictures/biographies/18_0.jpg"],
+            "pictures": ["content/pictures/biographies/18_0.jpg"],
             "documents": []
         }
     },

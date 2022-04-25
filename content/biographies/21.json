@@ -14,7 +14,7 @@
         "category": "Migrazione",
         "location": "Mar mediterraneo",
         "attached": {
-            "pictures": ["/../../content/pictures/biographies/21_0.jpg"],
+            "pictures": ["content/pictures/biographies/21_0.jpg"],
             "documents": []
         }
     },

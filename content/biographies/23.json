@@ -14,7 +14,7 @@
         "category": "Migrazione",
         "location": "Lampedusa",
         "attached": {
-            "pictures": ["/../../content/pictures/biographies/23_0.jpg"],
+            "pictures": ["content/pictures/biographies/23_0.jpg"],
             "documents": []
         }
     },
