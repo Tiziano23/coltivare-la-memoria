@@ -20,7 +20,7 @@
         "category": "Ambiente",
         "location": "Centrale nucleare di Chernobyl",
         "attached": {
-            "pictures": [],
+            "pictures": ["content/pictures/biographies/36_0.jpg"],
             "documents": []
         }
     },

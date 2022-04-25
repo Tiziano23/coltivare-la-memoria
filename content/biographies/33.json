@@ -20,7 +20,7 @@
         "category": "Ambiente",
         "location": "Guatemala",
         "attached": {
-            "pictures": [],
+            "pictures": ["content/pictures/biographies/33_0.jpg"],
             "documents": []
         }
     },

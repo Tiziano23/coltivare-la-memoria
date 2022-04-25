@@ -19,14 +19,12 @@
         "category": "Ambiente",
         "location": "Regno Unito",
         "attached": {
-            "pictures": [
-                "content/pictures/biographies/39_0.jpg"
-            ],
+            "pictures": ["content/pictures/biographies/39_0.jpg"],
             "documents": []
         }
     },
     "metadata": {
         "authors": ["Carrai Dennis"],
-        "sources": ["wikipedia.org","gariwo.net"]
+        "sources": ["wikipedia.org", "gariwo.net"]
     }
 }
