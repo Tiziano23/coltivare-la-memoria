@@ -35,7 +35,7 @@
             <h2 class="display-4">Approfondimenti</h2>
             <div class="item-list vstack gap-5 my-4">
                 <a class="item hstack gap-3 p-3 shadow" href="giusti-ambiente/julia-hill">
-                    <img class="image img-thumbnail" src="content/pictures/thumb.jpg" alt="Julia Hill" />
+                    <img class="image img-thumbnail" src="content/pictures/biographies/42_1.jpg" alt="Julia Hill" />
                     <div class="vstack gap-2 justify-content-center">
                         <p class="name h3">Julia "Butterfly" Hill</p>
                         <p class="content"></p>

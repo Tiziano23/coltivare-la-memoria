@@ -32,28 +32,28 @@
             <h2 class="display-4">Approfondimenti</h2>
             <div class="item-list vstack gap-5 my-4">
                 <a class="item hstack gap-3 p-3 shadow" href="giusti-dello-sport/billie-jean-king">
-                    <img class="image img-thumbnail" src="content/pictures/thumb.jpg" alt="Billie Jean King" />
+                    <img class="image img-thumbnail" src="content/pictures/king.jpg" alt="Billie Jean King" />
                     <div class="vstack gap-2 justify-content-center">
                         <p class="name h3">Billie Jean King</p>
                         <p class="content"></p>
                     </div>
                 </a>
                 <a class="item hstack gap-3 p-3 shadow" href="giusti-dello-sport/gaetano-scirea">
-                    <img class="image img-thumbnail" src="content/pictures/thumb.jpg" alt="Gaetano Scirea" />
+                    <img class="image img-thumbnail" src="content/pictures/biographies/28_0.jpg" alt="Gaetano Scirea" />
                     <div class="vstack gap-2 justify-content-center">
                         <p class="name h3">Gaetano Scirea</p>
                         <p class="content"></p>
                     </div>
                 </a>
                 <a class="item hstack gap-3 p-3 shadow" href="giusti-dello-sport/nelson-mandela">
-                    <img class="image img-thumbnail" src="content/pictures/thumb.jpg" alt="Nelson Mandela" />
+                    <img class="image img-thumbnail" src="content/pictures/biographies/25_0.jpg" alt="Nelson Mandela" />
                     <div class="vstack gap-2 justify-content-center">
                         <p class="name h3">Nelson Mandela</p>
                         <p class="content"></p>
                     </div>
                 </a>
                 <a class="item hstack gap-3 p-3 shadow" href="giusti-dello-sport/yusra-mardini">
-                    <img class="image img-thumbnail" src="content/pictures/thumb.jpg" alt="Yusra Mardini" />
+                    <img class="image img-thumbnail" src="content/pictures/mardini.jpg" alt="Yusra Mardini" />
                     <div class="vstack gap-2 justify-content-center">
                         <p class="name h3">Yusra Mardini</p>
                         <p class="content"></p>

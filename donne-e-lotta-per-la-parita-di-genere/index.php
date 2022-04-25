@@ -25,7 +25,7 @@
             <h2>Approfondimenti</h2>
             <div class="item-list vstack gap-5 my-4">
                 <a class="item hstack gap-3 p-3 shadow" href="donne-e-lotta-per-la-parita-di-genere/olympe-de-gouges">
-                    <img class="image img-thumbnail" src="content/pictures/thumb.jpg" alt="Olympe de Gouges" />
+                    <img class="image img-thumbnail" src="content/pictures/gouges.jpg" alt="Olympe de Gouges" />
                     <div class="vstack gap-2 justify-content-center">
                         <p class="name h3">Olympe de Gouges</p>
                         <p class="content"></p>
