@@ -1,0 +1,27 @@
+{
+    "person": {
+        "name": "Wallace",
+        "surname": "Broecker",
+        "sex": "Maschio",
+        "birthplace": "Chicago",
+        "birthday": "1931-11-29",
+        "death_date": "2019-02-18",
+        "recognition_date": "/",
+        "occupation": "Geofisico, climatologo e professore di Scienze Ambientali."
+    },
+
+    "data": {
+        "content": "Nel 1953 Broecker si laureò in Fisica al Columbia College e dopo una carriera di ricercatore, nel 1977, divenne anche Professore di Scienze Ambientali presso il Lamont-Doherty Earth Observatory. Fin dagli anni in cui frequentava l'università, Broecker si concentrò sullo studio dell'uso del carbonio-14 nell'osservazione dei processi geologici e oceanografici. Queste analisi, lo fecero approdare alle motivazioni dei cambiamenti climatici e al ruolo che gli oceani svolgono in questi mutamenti. I traccianti geochimici usati permisero la descrizione sotto il profilo chimico, fisico e biologico del ruolo e delle forme che l’anidride carbonica assume nei mari. Le sue attività non si sono limitate all'analisi teorica in laboratorio; come studioso ha considerato l'importanza della ricerca sul campo, prendendo parte a spedizioni scientifiche in tutto il mondo. Lo scienziato ha avuto un ruolo attivo nella teoria del riscaldamento globale, indicando come fattori di squilibrio i gas - in particolare l’anidride carbonica - rilasciati dalle attività umane che contribuiscono pesantemente all’effetto serra e al conseguente riscaldamento del Pianeta, e facendo su queste tematiche un'ampia divulgazione scientifica sulla stampa e nelle sedi istituzionali. Già nel 1975, quando il mondo era in piena guerra fredda, Broecker pubblicò uno studio - intitolato Cambiamenti climatici: siamo sul punto di fronteggiare un forte riscaldamento? - che prevedeva la crescita della temperatura media globale nei futuri 40 anni, a causa della concentrazione di CO2 nell’atmosfera. Da solo aveva compreso nel dettaglio e con largo anticipo quello che conosciamo come global warming, riscaldamento globale, e le conseguenze che avrebbe avuto sul mondo. È stato autore di più di 400 articoli scientifici e di parecchi libri ed è stato il primo scienziato a usare e rendere popolare il termine “riscaldamento globale”.  Per ovviare a questa situazione, assieme ad altri studiosi del problema ha proposto di imprigionare l'anidride carbonica emessa nell'aria e immagazzinarla sotto terra, oppure sotto il mare, trovando però l'opposizione di Greenpeace e di altre organizzazioni ambientalistiche. Nel 2002 fu contattato dall'industriale Gary C. Comer incuriosito dal ritiro dei ghiacci al Polo Nord; e nel 2009, a seguito di una generosa donazione dell'imprenditore, è stato inaugurato un centro di ricerca sulle variazioni climatiche. Nel 2007 la Royal Society di Londra lo ha incluso fra i suoi membri, dando modo allo studioso di affiancare il proprio nome a quello di Isaac Newton. Premiato dal presidente Clinton nel 1996 per i suoi contributi alla comprensione dei fenomeni di cambiamento nei mari e nell'atmosfera, ha ricevuto un elevato numero di riconoscimenti per l'attività scientifica e per i risultati ottenuti nelle sue ricerche.  Dal 2020 Broecker è ricordato con una targa al Giardino dei Giusti di Milano.",
+        "category": "Ambiente",
+        "location": "Chicago",
+        "attached": {
+            "pictures": [],
+            "documents": []
+        }
+    },
+
+    "metadata": {
+        "authors": ["Asia Nencioni"],
+        "sources": ["gariwo.net","wikipedia.org/wiki/Wallace_Broecker","https://www.lifegate.it/wallace-broecker-pioniere-cambiamenti-climatici"]
+    }
+}
