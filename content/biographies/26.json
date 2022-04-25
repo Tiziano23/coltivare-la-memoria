@@ -4,9 +4,9 @@
         "surname": "Kanter",
         "sex": "M",
         "birthplace": "Zurigo, Svizzera",
-        "birthday": "20/05/1992",
-        "death_date": "-",
-        "recognition_date": "-",
+        "birthday": "1992-05-20",
+        "death_date": "/",
+        "recognition_date": "/",
         "occupation": "Cestista"
     },
     "data": {

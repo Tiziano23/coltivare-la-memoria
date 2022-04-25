@@ -34,8 +34,10 @@ async function loadBiogarphy(id, biography) {
 
     const mergedData = { ...biography.person, ...biography.data, ...biography.metadata };
 
-    if (mergedData.birthday !== "/" && mergedData.birthday.length > 4) mergedData.birthday = new Date(mergedData.birthday).toLocaleDateString();
-    if (mergedData.recognition_date !== "/" && mergedData.recognition_date.length > 4) mergedData.recognition_date = new Date(mergedData.recognition_date).toLocaleDateString();
+    if (mergedData.birthday !== "/" && mergedData.birthday.length > 4)
+        mergedData.birthday = new Date(mergedData.birthday).toLocaleDateString("it-IT", { year: 'numeric', month: 'long', day: 'numeric' });
+    if (mergedData.recognition_date !== "/" && mergedData.recognition_date.length > 4)
+        mergedData.recognition_date = new Date(mergedData.recognition_date).toLocaleDateString("it-IT", { year: 'numeric', month: 'long', day: 'numeric' });
 
     const results = [...template.matchAll(/\{{2}.+?\}{2}/g)];
     for (let item of results) {

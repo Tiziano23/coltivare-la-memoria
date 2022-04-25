@@ -4,8 +4,8 @@
         "surname": "pompei",
         "sex": "F",
         "birthplace": "Roma",
-        "birthday": "13/06/1959",
-        "death_date": "-",
+        "birthday": "1959-06-13",
+        "death_date": "/",
         "recognition_date": "2018",
         "occupation": "Responsabile della Comunità di Sant'Egidio per i servizi ai migranti"
     },

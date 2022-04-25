@@ -36,7 +36,7 @@
                 <div class="background"></div>
             </div>
         </div>
-        <div class="article mb-5">
+        <div class="article container-fluid mb-5" style="max-width:120ch;">
             <h1 class="display-1">Perché Coltivare la Memoria?</h1>
             <p>
                 Il nostro progetto ha lo scopo di ricordare tutte quelle persone che si sono distinte nel corso della storia per i loro comportamenti solidali.<br />

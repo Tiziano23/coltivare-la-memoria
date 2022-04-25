@@ -4,9 +4,9 @@
         "surname": "Valiamos",
         "sex": "M",
         "birthplace": "Lesbo",
-        "birthday": "31/12/1976 ",
-        "death_date": "-",
-        "recognition_date": "2018 candidatura premio Nobel per la pace, 2018 segnalazione per il monte stella ",
+        "birthday": "1976-12-31",
+        "death_date": "/",
+        "recognition_date": "2018",
         "occupation": "Pescatore"
     },
     "data": {

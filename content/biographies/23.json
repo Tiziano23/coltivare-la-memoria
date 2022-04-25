@@ -4,9 +4,9 @@
         "surname": "Fiorino",
         "sex": "M",
         "birthplace": "Bari",
-        "birthday": "13/08/1949",
-        "death_date": "-",
-        "recognition_date": "3/10/2019",
+        "birthday": "1949-08-13",
+        "death_date": "/",
+        "recognition_date": "2019-10-03",
         "occupation": "Falegname/Gelataio/Pescatrore"
     },
     "data": {

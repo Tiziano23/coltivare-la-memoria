@@ -4,9 +4,9 @@
         "surname": "Scirea",
         "sex": "M",
         "birthplace": "Cernusco sul Naviglio",
-        "birthday": "25/05/1953",
-        "death_date": "03/09/1989",
-        "recognition_date": "-",
+        "birthday": "1953-05-25",
+        "death_date": "1989-09-03",
+        "recognition_date": "/",
         "occupation": "Calciatore"
     },
 

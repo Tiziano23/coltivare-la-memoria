@@ -4,9 +4,9 @@
         "surname": "Trollmann",
         "sex": "M",
         "birthplace": "Wilsche, Germania",
-        "birthday": "27/12/1907",
-        "death_date": "09/02/1943",
-        "recognition_date": "-",
+        "birthday": "1907-12-27",
+        "death_date": "1943-02-09",
+        "recognition_date": "/",
         "occupation": "Pugile"
     },
 

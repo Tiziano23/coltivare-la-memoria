@@ -4,9 +4,9 @@
         "surname": "King",
         "sex": "F",
         "birthplace": "Long Beach, California, USA",
-        "birthday": "22/11/1943",
-        "death_date": "-",
-        "recognition_date": "-",
+        "birthday": "1943-11-22",
+        "death_date": "/",
+        "recognition_date": "/",
         "occupation": "Tennista"
     },
     "data": {

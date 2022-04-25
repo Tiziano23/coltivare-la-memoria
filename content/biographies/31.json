@@ -4,9 +4,9 @@
         "surname": "Long",
         "sex": "M",
         "birthplace": "Lipsia",
-        "birthday": "27/04/1913",
-        "death_date": "14/07/1943",
-        "recognition_date": "-",
+        "birthday": "1913-04-27",
+        "death_date": "1943-07-14",
+        "recognition_date": "/",
         "occupation": "Atleta"
     },
 
