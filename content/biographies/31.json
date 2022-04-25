@@ -12,16 +12,16 @@
 
     "data": {
         "content": "",
-        "category": "",
-        "location": "",
+        "category": "Sport",
+        "location": "Olimpiadi di Berlino 1936",
         "attached": {
-            "pictures": [],
+            "pictures": ["content/pictures/biographies/31_0.jpg"],
             "documents": []
         }
     },
 
     "metadata": {
-        "authors": [],
-        "sources": []
+        "authors": ["Cai Aurora"],
+        "sources": ["I giusti dello sport", "Gianni Mura"]
     }
 }
