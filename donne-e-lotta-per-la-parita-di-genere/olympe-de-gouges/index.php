@@ -19,7 +19,7 @@
     <div class="container-lg mt-4" style="margin-bottom:5rem">
         <div class="container-fluid" style="max-width:120ch;">
             <h1 class="display-2">Olympe de Gouges</h1>
-            <h2 class="mb-4"></h2>
+            <h2 class="mb-4">La rivoluzionaria francese che lottò per il riconoscimento dell'uguaglianza dei diritti delle donne</h2>
             <div class="container-fluid fs-5" style="max-width:80ch;text-align:justify;">
                 <p>Marie Gouze, nata il 7 maggio 1748 a Montauban in Francia, decise del proprio destino come del proprio nome, che cambiò in Olympe de Gouges.</p>
                 <p>Nel 1765 si sposa, diventa subito madre di un bambino e quasi immediatamente vedova. Delusa dalla sua esperienza coniugale, rifiuta in seguito di risposarsi, considerando il matrimonio come la tomba della fiducia e dell'amore. Nel 1770 lascia Montauban col figlio Pierre, futuro generale dell'esercito della Repubblica, per raggiungere la sorella.</p>

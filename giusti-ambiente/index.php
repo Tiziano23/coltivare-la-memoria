@@ -38,7 +38,7 @@
                     <img class="image img-thumbnail" src="content/pictures/biographies/42_1.jpg" alt="Julia Hill" />
                     <div class="vstack gap-2 justify-content-center">
                         <p class="name h3">Julia "Butterfly" Hill</p>
-                        <p class="content"></p>
+                        <p class="content">La giovane ambientalista californiana che ha vissuto 738 giorni su una sequoia per salvare una foresta</p>
                     </div>
                 </a>
             </div>

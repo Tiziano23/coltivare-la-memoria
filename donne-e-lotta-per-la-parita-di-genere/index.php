@@ -28,7 +28,7 @@
                     <img class="image img-thumbnail" src="content/pictures/gouges.jpg" alt="Olympe de Gouges" />
                     <div class="vstack gap-2 justify-content-center">
                         <p class="name h3">Olympe de Gouges</p>
-                        <p class="content"></p>
+                        <p class="content">La rivoluzionaria francese che lottò per il riconoscimento dell'uguaglianza dei diritti delle donne</p>
                     </div>
                 </a>
             </div>

@@ -19,7 +19,7 @@
     <div class="container-lg mt-4" style="margin-bottom:5rem">
         <div class="container-fluid" style="max-width:120ch;">
             <h1 class="display-2 mb-4">Costantino Baratta</h1>
-            <h2 class="mb-4"></h2>
+            <h2 class="mb-4">Il pescatore di Lampedusa che ha salvato 12 migranti eritrei durante la strage del 3 ottobre 2013</h2>
             <div class="container-fluid fs-5" style="max-width:80ch;text-align:justify;">
                 <p>Nato a Trani (Barletta-Andria-Trani) nel 1957 ma residente a Lampedusa, lavora attivamente come muratore presso la città, dove pratica anche l'arte della pesca, sua passione. Si trasferisce a Lampedusa dal 1987, a 26 anni, come residente fisso in seguito alla costruzione dalla casa assieme alla moglie, dove poi si stabilirà definitivamente.</p>
                 <p>Come molti altri isolani, si trova a dover convivere con la tragedia dei profughi, che sbarcano lungo le coste in condizioni inumane o, nella peggiore delle ipotesi, non vi arrivano vivi; non ha mancato di dimostrare più volte la propria accoglienza e umanità verso i disperati del nostro mare.</p>

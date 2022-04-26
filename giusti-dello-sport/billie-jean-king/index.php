@@ -19,7 +19,7 @@
     <div class="container-lg mt-4" style="margin-bottom:5rem">
         <div class="container-fluid" style="max-width:120ch;">
             <h1 class="display-2">Billie Jean King</h1>
-            <h2 class="mb-4"></h2>
+            <h2 class="mb-4">La campionessa del tennis che vinse la “battaglia dei sessi”</h2>
             <div class="container-fluid fs-5" style="max-width:80ch;text-align:justify;">
                 <p>Billie Jean è una tennista californiana che proviene da una famiglia molto rigida e patriottica, contraria ad ogni tipo di riforma che va contro gli ideali statunitensi. La sua famiglia la sottovaluta e le impedisce di giocare a tennis, ma Billie Jean è una ragazza forte e ribelle che si allena nonostante il giudizio dei genitori e in poco tempo diventa una bravissima tennista. Billie è così brava che nel 1961 gareggia a Wimbledon e senza troppa fatica riesce a vincere.</p>
                 <p>Dopo essere diventata la tennista più brava al mondo non è ancora contenta perché gli assegni che riceve sono inferiori a quelli dei tennisti uomini, come se quello che fanno le donne valesse meno di quello che fanno gli uomini; così denuncia apertamente questa disparità all'USTA (United States Tennis Association), lanciando una campagna per l'equiparazione degli stipendi delle tenniste a quelli dei tennisti. </p>

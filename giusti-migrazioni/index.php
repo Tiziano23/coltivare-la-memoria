@@ -27,7 +27,7 @@
                     <img class="image img-thumbnail" src="content/pictures/baratta.jpg" alt="Costantino Baratta" />
                     <div class="vstack gap-2 justify-content-center">
                         <p class="name h3">Costantino Baratta</p>
-                        <p class="content"></p>
+                        <p class="content">Il pescatore di Lampedusa che ha salvato 12 migranti eritrei durante la strage del 3 ottobre 2013</p>
                     </div>
                 </a>
             </div>

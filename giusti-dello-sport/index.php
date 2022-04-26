@@ -35,7 +35,7 @@
                     <img class="image img-thumbnail" src="content/pictures/king.jpg" alt="Billie Jean King" />
                     <div class="vstack gap-2 justify-content-center">
                         <p class="name h3">Billie Jean King</p>
-                        <p class="content"></p>
+                        <p class="content">La campionessa del tennis che vinse la “battaglia dei sessi”</p>
                     </div>
                 </a>
                 <a class="item hstack gap-3 p-3 shadow" href="giusti-dello-sport/gaetano-scirea">
