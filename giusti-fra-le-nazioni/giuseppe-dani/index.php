@@ -48,10 +48,8 @@
                     Maria Bonistalli e il padre Giovanni Dani come “Giusti tra le nazioni”, si è tenuta una cerimonia presso la Sinagoga di Firenze. Dani è stato il primo San Miniatese a ricevere un riconoscimento da parte dello Yad Vashem,
                     l'Ente nazionale per la Memoria della Shoah.
                 </p>
-                <div class="hstack justify-content-center my-5">
-                    <video class="video ratio ratio-16x9" controls>
-                        <source src="content/videos/intervista.mp4" type="video/mp4">
-                    </video>
+                <div class="ratio ratio-16x9 my-5">
+                    <iframe src="https://www.youtube.com/embed/OZc_Hd0cE4U" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <p><strong>Autori e autrici: </strong>Arpaia Alessio, Bonculescu Anna, Giraldo Vittoria, Lo Re Sara, Meini Bianca.</p>
             </div>
