@@ -20,7 +20,7 @@
         "category": "Ambiente",
         "location": "Terre Yanomami, Amazzonia",
         "attached": {
-            "pictures": ["contetn/pictures/biographies/37_0.jpg"],
+            "pictures": ["content/pictures/biographies/37_0.jpg", "content/pictures/biographies/37_1.jpg"],
             "documents": []
         }
     },
