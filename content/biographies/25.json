@@ -19,7 +19,7 @@
         "category": "Sport",
         "location": "Sud-Africa",
         "attached": {
-            "pictures": ["content/pictures/biographies/25_0.jpg"],
+            "pictures": ["content/pictures/biographies/25_0.jpg", "content/pictures/biographies/25_1.jpg", "content/pictures/biographies/25_2.jpg"],
             "documents": []
         }
     },

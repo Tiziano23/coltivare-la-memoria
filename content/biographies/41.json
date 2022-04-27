@@ -19,7 +19,7 @@
         "category": "Ambiente",
         "location": "Foreste del Cheran in Messico",
         "attached": {
-            "pictures": ["content/pictures/biographies/41_0.jpg"],
+            "pictures": ["content/pictures/biographies/41_0.jpg", "content/pictures/biographies/41_1.jpg"],
             "documents": []
         }
     },

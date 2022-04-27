@@ -20,7 +20,7 @@
         "category": "Sport",
         "location": "Germania",
         "attached": {
-            "pictures": ["content/pictures/biographies/30_0.jpg"],
+            "pictures": ["content/pictures/biographies/30_0.jpg", "content/pictures/biographies/30_1.jpg"],
             "documents": []
         }
     },

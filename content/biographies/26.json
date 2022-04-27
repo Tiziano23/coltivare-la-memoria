@@ -19,7 +19,7 @@
         "category": "Sport",
         "location": "Turchia",
         "attached": {
-            "pictures": ["content/pictures/biographies/26_0.jpg"],
+            "pictures": ["content/pictures/biographies/26_0.jpg", "content/pictures/biographies/26_1.jpg"],
             "documents": []
         }
     },

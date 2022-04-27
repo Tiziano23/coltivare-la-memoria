@@ -19,7 +19,7 @@
         "category": "Ambiente",
         "location": "Colombia",
         "attached": {
-            "pictures": ["content/pictures/biographies/40_0.jpg"],
+            "pictures": ["content/pictures/biographies/40_0.jpg", "content/pictures/biographies/40_1.jpg"],
             "documents": []
         }
     },

@@ -19,7 +19,7 @@
         "category": "Ambiente",
         "location": "Parà, Brasile",
         "attached": {
-            "pictures": ["content/pictures/biographies/38_0.jpg"],
+            "pictures": ["content/pictures/biographies/38_0.jpg", "content/pictures/biographies/38_1.jpg"],
             "documents": []
         }
     },

@@ -19,7 +19,7 @@
         "category": "Ambiente",
         "location": "/",
         "attached": {
-            "pictures": ["content/pictures/biographies/47_0.jpg"],
+            "pictures": ["content/pictures/biographies/47_0.jpg", "content/pictures/biographies/47_1.jpg"],
             "documents": []
         }
     },

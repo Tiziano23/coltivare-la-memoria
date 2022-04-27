@@ -20,7 +20,7 @@
         "category": "Sport",
         "location": "Città del Messico, Messico",
         "attached": {
-            "pictures": ["content/pictures/biographies/32_0.jpg"],
+            "pictures": ["content/pictures/biographies/32_0.jpg", "content/pictures/biographies/32_1.jpg"],
             "documents": []
         }
     },

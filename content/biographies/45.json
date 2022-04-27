@@ -19,7 +19,7 @@
         "category": "Ambiente",
         "location": "Tragadero Grande, Cajamarca",
         "attached": {
-            "pictures": ["content/pictures/biographies/45_0.jpg"],
+            "pictures": ["content/pictures/biographies/45_0.jpg", "content/pictures/biographies/45_1.jpg"],
             "documents": []
         }
     },
