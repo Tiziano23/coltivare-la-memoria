@@ -27,13 +27,17 @@
                     Dei 25,4 milioni di profughi oggi presenti nel mondo, la metà dei profughi proviene solo da tre Paesi. Si tratta della Siria, dove a causa della guerra civile 6.3 milioni di persone hanno lasciato le proprie case, e di Afghanistan e Sud Sudan, abbandonati rispettivamente da 2.6 e 2.4 milioni di abitanti. A questi si devono aggiungere i profughi che negli ultimi mesi hanno abbandonato l'Ucraina, in seguito all'occupazione dell'esercito russo e allo scatenarsi di una nuova guerra sul suolo europeo.
                     Con il progetto Vivere la storia si è cercato di raccogliere le esperienze dei Giusti nella migrazione, in particolare di coloro che hanno salvato migranti dalla tragedia del 3 ottobre 2013 a Lampedusa, o che si sono adoperati per aiutare chi arrivava soprattutto nel 2015 sull'isola di Lesbo.
                 </p>
-                <h3 class="display-5">La strage del 3 ottobre 2013 a Lampedusa</h2>
+                <figure class="figure w-100 my-4">
+                    <img src="content/pictures/giusti_migrazioni.jpg" alt="" class="figure-img img-fluid d-block mx-auto rounded ">
+                    <figcaption class="figure-caption text-center">Uno sbarco a Lesbo. (ANDREW MCCONNELL / PANOS)</figcaption>
+                </figure>
+                <h3 class="display-5">La strage del 3 ottobre 2013 a Lampedusa</h3>
                 <p>
                     La notte del 3 ottobre 2013 nelle acque a largo di Lampedusa un'imbarcazione si è rovesciata al largo dell'Isola dei Conigli, a Lampedusa. A bordo c'erano circa 600 persone, quasi tutte di origine eritrea. Solo 155 di loro si sono salvate: i cadaveri recuperati furono 368, i dispersi 20.
                     Non è la prima, ma è una delle tragedie più gravi della storia moderna nel Mediterraneo. Il numero delle vittime, la risonanza internazionale dell'accaduto e l'impegno del Comitato 3 ottobre hanno fatto sì che tale data diventasse il simbolo della tragedia dei migranti, tanto da spingere il Parlamento italiano, nel 2015, a istituire per il 3 ottobre una Giornata nazionale in memoria delle vittime dell'immigrazione.
                     Abbiamo ricordato e onorato chi, come Vito Fiorino, Costantino Baratta, Alganesh Fessaha, si è assunto una responsabilità e ha scelto di aiutare chi fuggiva da guerre e persecuzioni.
                 </p>
-                <h3 class="display-5">L'accoglienza sull'isola di Lesbo</h2>
+                <h3 class="display-5">L'accoglienza sull'isola di Lesbo</h3>
                 <p>
                     Tra il 2015 e del 2016, sull'isola greca di Lesbo sono arrivate via mare dalla Turchia 600.000 persone. Sono arrivate soprattutto dalla Siria, fuggendo dalla guerra civile, dall'Isis e dai bombardamenti sulle città.
                     Lesbo per loro rappresentava il primo passo di un lungo viaggio verso il Nord Europa, che avrebbero proseguito attraverso quella “rotta balcanica” successivamente chiusa dai governi europei.

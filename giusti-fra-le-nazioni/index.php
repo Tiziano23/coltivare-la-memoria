@@ -20,6 +20,7 @@
     <div class="container-lg mt-4" style="margin-bottom:5rem">
         <div class="container-fluid" style="max-width:120ch;">
             <h1 class="display-2 mb-4">Chi sono i 'Giusti fra le Nazioni'?</h1>
+            <img src="content/pictures/garden-of-the-righteous-among-the-nations.jpg" alt="Garden of the righteous among the nations" class="rounded img-fluid mx-auto my-2 d-block">
             <p class="mx-auto fs-5" style="text-align:justify;max-width:80ch">
                 Lo Yad Vashem, Memoriale della Shoah a Gerusalemme, ha riconosciuto la figura di 'Giusti tra le Nazioni', persone che si sono distinte per aver aiutato gli ebrei, mettendo a rischio la propria vita, senza pensare alle conseguenze, ma spinti soltanto dalla volontà di salvare vite umane.
             </p>
