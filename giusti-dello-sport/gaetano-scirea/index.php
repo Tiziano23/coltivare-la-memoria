@@ -19,8 +19,8 @@
             <h1 class="display-1">Gaetano Scirea</h1>
             <iframe
                 class="my-2"
-                width="2"
-                height="1"
+                width="16"
+                height="9"
                 data-original-width="2000"
                 data-original-height="1600"
                 src="https://www.thinglink.com/card/1559228415331008515"
